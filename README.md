@@ -16,10 +16,11 @@ The Cricket Data Analytics🏏 project is made on IPL 2023 Data. I have used **P
 
 1. Requirement Scoping
 2. **Data Collection** using Web Scraping from [Kaggle](https://www.kaggle.com/) website
-3. **Data Cleaning** and Preprocessing in Excel
+3. **Data Cleaning** and Preprocessing in Excel [CSV Files](https://github.com/sagarkj2001/IPL-2023-Analytics/tree/main/CSV%20Files)
 4. **Data Transformation** in Power Query
-5. **Data Modelling** and Building Parameters in Power BI using DAX
-6. Building the **Dashboard** in Power BI
+5.  **Data Validation** is done in PostgreSQL   [SQL](https://github.com/sagarkj2001/IPL-2023-Analytics/blob/main/IPL2023.sql)
+6. **Data Modelling** and Building Parameters in Power BI using DAX
+7. Building the **Dashboard** in Power BI    [Screenshots](https://github.com/sagarkj2001/IPL-2023-Analytics/tree/main/Screenshots)
 
 ---
 ## Dashboard Sanps
