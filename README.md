@@ -22,5 +22,7 @@ The Cricket Data Analytics🏏 project is made on IPL 2023 Data. I have used **P
 6. Building the **Dashboard** in Power BI
 
 ---
-## Output
-![Screenshot](https://github.com/ipithani/IPL_Analysis/blob/main/Dashboard%20output.png)
+## Dashboard Sanps
+![Summary](https://github.com/sagarkj2001/IPL-2023-Analytics/blob/main/Screenshots/Summary.png)
+![Teams](https://github.com/sagarkj2001/IPL-2023-Analytics/blob/main/Screenshots/Teams.png)
+![Player](https://github.com/sagarkj2001/IPL-2023-Analytics/blob/main/Screenshots/Player.png)
