@@ -1,0 +1,126 @@
+﻿DBID,MatchID,PlayerID,PlayerName,Overs,Runs,Wikets,Dots,StrikeRate,Against,Venue,MatchDate
+DBID0001,M012,TP0218,Abdul Samad,1,8,0,1,0,LSG,DY Patil Stadium,4-Apr-22
+DBID0002,M054,TP0219,Abhishek Sharma,2,13,0,2,0,RCB,Wankhede Stadium,8-May-22
+DBID0003,M001,TP0001,Adam Milne,2.3,19,0,9,0,KKR,Wankhede Stadium,26-Mar-22
+DBID0004,M045,TP0220,Aiden Markram,3,36,0,3,0,CSK,Maharashtra Cricket Association Stadium,1-May-22
+DBID0005,M017,TP0196,Akash Deep,4,20,1,14,24,MI,Maharashtra Cricket Association Stadium,9-Apr-22
+DBID0006,M035,TP0050,Alzarri Joseph,4,31,1,12,24,KKR,DY Patil Stadium,23-Apr-22
+DBID0007,M025,TP0078,Aman Khan,1,13,0,1,0,SRH,Brabourne,15-Apr-22
+DBID0008,M061,TP0079,Andre Russell,4,22,3,14,8,SRH,Maharashtra Cricket Association Stadium,14-May-22
+DBID0009,M007,TP0100,Andrew Tye,4,40,2,10,12,CSK,Brabourne,31-Mar-22
+DBID0010,M069,TP0025,Anrich Nortje,4,37,2,11,12,MI,Wankhede Stadium,21-May-22
+DBID0011,M047,TP0080,Anukul Roy,4,28,1,7,24,RR,Wankhede Stadium,2-May-22
+DBID0012,M002,TP0147,Arshdeep Singh,4,31,1,11,24,RCB,DY Patil Stadium,27-Mar-22
+DBID0013,M012,TP0102,Avesh Khan,4,24,4,15,6,SRH,DY Patil Stadium,4-Apr-22
+DBID0014,M064,TP0241,Axar Patel,4,14,2,14,12,PK,DY Patil Stadium,16-May-22
+DBID0015,M062,TP0103,Ayush Badoni,1,5,1,3,6,RR,Brabourne,15-May-22
+DBID0016,M017,TP0123,Basil Thampi,4,29,0,11,0,RCB,Maharashtra Cricket Association Stadium,9-Apr-22
+DBID0017,M005,TP0221,Bhuvneshwar Kumar,4,29,1,14,24,RR,Maharashtra Cricket Association Stadium,29-Mar-22
+DBID0018,M058,TP0027,Chetan Sakariya,4,23,2,9,12,RR,DY Patil Stadium,11-May-22
+DBID0019,M011,TP0004,Chris Jordan,4,23,2,12,12,PK,Brabourne,3-Apr-22
+DBID0020,M059,TP0124,Daniel Sams,4,16,3,18,8,CSK,Wankhede Stadium,12-May-22
+DBID0021,M016,TP0052,Darshan Nalkande,3,37,2,4,9,PK,Brabourne,8-Apr-22
+DBID0022,M039,TP0173,Daryl Mitchell,1,7,0,1,0,RCB,Maharashtra Cricket Association Stadium,26-Apr-22
+DBID0023,M017,TP0200,David Willey,2,8,0,8,0,MI,Maharashtra Cricket Association Stadium,9-Apr-22
+DBID0024,M004,TP0104,Deepak Hooda,3,31,1,3,18,GT,Wankhede Stadium,28-Mar-22
+DBID0025,M017,TP0125,Dewald Brevis,0.3,8,1,1,3,RCB,Maharashtra Cricket Association Stadium,9-Apr-22
+DBID0026,M042,TP0105,Dushmanta Chameera,4,17,2,17,12,PK,Maharashtra Cricket Association Stadium,29-Apr-22
+DBID0027,M011,TP0007,Dwaine Pretorius,4,30,2,11,12,PK,Brabourne,3-Apr-22
+DBID0028,M028,TP0008,Dwayne Bravo,4,23,3,12,8,GT,Maharashtra Cricket Association Stadium,17-Apr-22
+DBID0029,M026,TP0126,Fabian Allen,4,46,1,6,24,LSG,Brabourne,16-Apr-22
+DBID0030,M065,TP0222,Fazalhaq Farooqi,4,31,0,11,0,MI,Wankhede Stadium,17-May-22
+DBID0031,M067,TP0204,Glenn Maxwell,4,28,1,14,24,GT,Wankhede Stadium,19-May-22
+DBID0032,M074,TP0056,Hardik Pandya,4,17,3,14,8,RR,Narendra Modi Stadium,29-May-22
+DBID0033,M060,TP0152,Harpreet Brar,4,33,1,12,24,RCB,Brabourne,13-May-22
+DBID0034,M006,TP0205,Harshal Patel,4,11,2,19,12,KKR,DY Patil Stadium,30-Mar-22
+DBID0035,M041,TP0077,Alex Hales,3,24,1,8,18,DC,Wankhede Stadium,28-Apr-22
+DBID0036,M033,TP0127,Hrithik Shokeen,4,23,0,11,0,CSK,DY Patil Stadium,21-Apr-22
+DBID0037,M054,TP0225,Jagadeesha Suchith,4,30,2,12,12,RCB,Wankhede Stadium,8-May-22
+DBID0038,M024,TP0176,James Neesham,3,29,0,5,0,GT,DY Patil Stadium,14-Apr-22
+DBID0039,M066,TP0107,Jason Holder,4,45,0,10,0,KKR,DY Patil Stadium,18-May-22
+DBID0040,M056,TP0129,Jasprit Bumrah,4,10,5,18,4.8,KKR,DY Patil Stadium,9-May-22
+DBID0041,M017,TP0130,Jaydev Unadkat,4,30,1,10,24,RCB,Maharashtra Cricket Association Stadium,9-Apr-22
+DBID0042,M039,TP0207,Josh Hazlewood,4,19,2,16,12,RR,Maharashtra Cricket Association Stadium,26-Apr-22
+DBID0043,M060,TP0156,Kagiso Rabada,4,21,3,15,8,RCB,Brabourne,13-May-22
+DBID0044,M002,TP0030,Kamlesh Nagarkoti,2,29,0,4,0,MI,Brabourne,27-Mar-22
+DBID0045,M050,TP0226,Kartik Tyagi,4,37,0,10,0,DC,Brabourne,5-May-22
+DBID0046,M050,TP0031,Khaleel Ahmed,4,30,3,14,8,SRH,Brabourne,5-May-22
+DBID0047,M037,TP0132,Kieron Pollard,2,8,2,5,6,LSG,Wankhede Stadium,24-Apr-22
+DBID0048,M015,TP0108,K Gowtham,4,23,1,15,24,DC,DY Patil Stadium,7-Apr-22
+DBID0049,M042,TP0111,Krunal Pandya,4,11,2,15,12,PK,Maharashtra Cricket Association Stadium,29-Apr-22
+DBID0050,M047,TP0180,Kuldeep Sen,3.1,28,1,12,19,KKR,Wankhede Stadium,2-May-22
+DBID0051,M050,TP0032,Kuldeep Yadav,4,40,1,10,24,SRH,Brabourne,5-May-22
+DBID0052,M059,TP0137,Rahul Buddhi,3,22,2,9,9,CSK,Wankhede Stadium,12-May-22
+DBID0053,M015,TP0033,Lalit Yadav,4,21,1,10,24,LSG,DY Patil Stadium,7-Apr-22
+DBID0054,M070,TP0157,Liam Livingstone,4,25,0,8,0,SRH,Wankhede Stadium,22-May-22
+DBID0055,M035,TP0060,Lockie Ferguson,4,33,1,13,24,KKR,DY Patil Stadium,23-Apr-22
+DBID0056,M054,TP0011,Maheesh Theekshana,4,29,1,13,24,DC,DY Patil Stadium,8-May-22
+DBID0057,M054,TP0210,Mahipal Lomror,1,7,0,2,0,SRH,Wankhede Stadium,8-May-22
+DBID0058,M035,TP0227,Marco Jansen,4,25,3,14,8,RCB,Brabourne,23-Apr-22
+DBID0059,M066,TP0243,Marcus Stoinis,2,23,3,4,4,KKR,DY Patil Stadium,18-May-22
+DBID0060,M068,TP0021,Shivam Dube,3.4,28,0,12,0,RR,Brabourne,20-May-22
+DBID0061,M069,TP0133,Mayank Markande,4,26,1,9,24,DC,Wankhede Stadium,21-May-22
+DBID0062,M050,TP0036,Mitchell Marsh,4,36,1,9,24,SRH,Brabourne,5-May-22
+DBID0063,M062,TP0012,Mitchell Santner,4,24,0,11,0,GT,Wankhede Stadium,15-May-22
+DBID0064,M054,TP0242,Moeen Ali,4,13,3,16,8,DC,DY Patil Stadium,8-May-22
+DBID0065,M035,TP0062,Mohammad Shami,4,20,2,16,12,KKR,DY Patil Stadium,23-Apr-22
+DBID0066,M006,TP0211,Mohammed Siraj,4,25,1,13,24,KKR,DY Patil Stadium,30-Mar-22
+DBID0067,M066,TP0117,Mohsin Khan,4,20,3,16,8,KKR,DY Patil Stadium,18-May-22
+DBID0068,M059,TP0014,Mukesh Choudhary,4,23,3,17,8,MI,Wankhede Stadium,12-May-22
+DBID0069,M002,TP0135,Murugan Ashwin,4,14,2,14,12,DC,Brabourne,27-Mar-22
+DBID0070,M032,TP0037,Mustafizur Rahman,4,28,1,14,24,PK,Brabourne,20-Apr-22
+DBID0071,M005,TP0182,Nathan Coulter-Nile,3,48,0,4,0,SRH,Maharashtra Cricket Association Stadium,29-Mar-22
+DBID0072,M070,TP0159,Nathan Ellis,4,40,3,11,8,SRH,Wankhede Stadium,22-May-22
+DBID0073,M009,TP0183,Navdeep Saini,3,36,2,8,9,MI,DY Patil Stadium,2-Apr-22
+DBID0074,M041,TP0085,Nitish Rana,1,14,0,1,0,DC,Wankhede Stadium,28-Apr-22
+DBID0075,M068,TP0184,Obed McCoy,4,20,2,11,12,CSK,Brabourne,20-May-22
+DBID0076,M002,TP0160,Odean Smith,4,52,0,9,0,RCB,DY Patil Stadium,27-Mar-22
+DBID0077,M056,TP0086,Pat Cummins,4,22,3,11,8,MI,DY Patil Stadium,9-May-22
+DBID0078,M043,TP0064,Pradeep Sangwan,4,19,2,12,12,RCB,Brabourne,30-Apr-22
+DBID0079,M068,TP0016,Prashant Solanki,2,20,2,6,6,RR,Brabourne,20-May-22
+DBID0080,M073,TP0185,Prasidh Krishna,4,22,3,17,8,RCB,Narendra Modi Stadium,27-May-22
+DBID0081,M064,TP0163,Rahul Chahar,4,19,0,14,0,DC,DY Patil Stadium,16-May-22
+DBID0082,M009,TP0066,Rahul Tewatia,2,22,0,3,0,DC,Maharashtra Cricket Association Stadium,2-Apr-22
+DBID0083,M065,TP0138,Ramandeep Singh,3,20,3,5,6,SRH,Wankhede Stadium,17-May-22
+DBID0084,M057,TP0067,Rashid Khan,3.5,24,4,11,5.75,LSG,Maharashtra Cricket Association Stadium,10-May-22
+DBID0085,M014,TP0121,Arjun Tendulkar,3,18,0,6,0,MI,Maharashtra Cricket Association Stadium,6-Apr-22
+DBID0086,M015,TP0119,Shahbaz Nadeem,4,22,2,12,12,DC,DY Patil Stadium,7-Apr-22
+DBID0087,M039,TP0186,R Ashwin,4,17,3,14,8,RCB,Maharashtra Cricket Association Stadium,26-Apr-22
+DBID0088,M011,TP0018,Ravindra Jadeja,4,34,1,10,24,PK,Brabourne,3-Apr-22
+DBID0089,M033,TP0139,Riley Meredith,4,25,1,14,24,CSK,DY Patil Stadium,21-Apr-22
+DBID0090,M038,TP0165,Rishi Dhawan,4,39,2,10,12,CSK,Wankhede Stadium,25-Apr-22
+DBID0091,M024,TP0188,Riyan Parag,1,12,1,2,6,GT,DY Patil Stadium,14-Apr-22
+DBID0092,M005,TP0232,Romario Shepherd,4,33,1,12,24,RR,Maharashtra Cricket Association Stadium,29-Mar-22
+DBID0093,M019,TP0042,Rovman Powell,1,17,0,0,0,KKR,Brabourne,10-Apr-22
+DBID0094,M062,TP0065,R Sai Kishore,4,31,1,8,24,CSK,Wankhede Stadium,15-May-22
+DBID0095,M048,TP0166,Sandeep Sharma,4,17,0,15,0,GT,DY Patil Stadium,3-May-22
+DBID0096,M065,TP0141,Sanjay Yadav,2,23,0,6,0,SRH,Wankhede Stadium,17-May-22
+DBID0097,M050,TP0234,Sean Abbott,4,47,1,7,24,DC,Brabourne,5-May-22
+DBID0098,M031,TP0212,Shahbaz Ahamad,4,25,0,10,0,LSG,DY Patil Stadium,19-Apr-22
+DBID0099,M026,TP0044,Shardul Thakur,4,27,1,14,24,RCB,Wankhede Stadium,16-Apr-22
+DBID0100,M025,TP0235,Shashank Singh,1,10,0,1,0,KKR,Brabourne,15-Apr-22
+DBID0101,M001,TP0021,Shivam Dube,1,11,0,1,0,KKR,Wankhede Stadium,26-Mar-22
+DBID0102,M001,TP0093,Shivam Mavi,4,35,0,12,0,CSK,Wankhede Stadium,26-Mar-22
+DBID0103,M050,TP0236,Shreyas Gopal,3,34,1,7,18,DC,Brabourne,5-May-22
+DBID0104,M041,TP0094,Shreyas Iyer,1,7,0,4,0,DC,Wankhede Stadium,28-Apr-22
+DBID0105,M067,TP0170,Writtick Chatterjee,4,43,0,6,0,GT,Wankhede Stadium,19-May-22
+DBID0106,M059,TP0022,Simarjeet Singh,4,22,1,16,24,MI,Wankhede Stadium,12-May-22
+DBID0107,M006,TP0095,Sunil Narine,4,12,1,13,24,RCB,DY Patil Stadium,30-Mar-22
+DBID0108,M035,TP0237,T Natarajan,3,10,3,13,6,RCB,Brabourne,23-Apr-22
+DBID0109,M014,TP0143,Tilak Varma,1,6,0,3,0,KKR,Maharashtra Cricket Association Stadium,6-Apr-22
+DBID0110,M006,TP0096,Tim Southee,4,20,3,16,8,RCB,DY Patil Stadium,30-Mar-22
+DBID0111,M074,TP0193,Trent Boult,4,14,1,17,24,GT,Narendra Modi Stadium,29-May-22
+DBID0112,M001,TP0024,Tushar Deshpande,3,23,0,9,0,KKR,Wankhede Stadium,26-Mar-22
+DBID0113,M009,TP0145,Tymal Mills,4,35,3,10,8,RR,DY Patil Stadium,2-Apr-22
+DBID0114,M047,TP0097,Umesh Yadav,4,24,1,17,24,RR,Wankhede Stadium,2-May-22
+DBID0115,M035,TP0238,Umran Malik,4,13,1,19,24,RCB,Brabourne,23-Apr-22
+DBID0116,M011,TP0169,Vaibhav Arora,4,21,2,14,12,CSK,Brabourne,3-Apr-22
+DBID0117,M004,TP0070,Varun Aaron,4,45,2,5,12,LSG,Wankhede Stadium,28-Mar-22
+DBID0118,M008,TP0098,Varun Chakravarty,4,14,0,14,0,PK,Wankhede Stadium,1-Apr-22
+DBID0119,M006,TP0099,Venkatesh Iyer,1,10,0,2,0,RCB,DY Patil Stadium,30-Mar-22
+DBID0120,M024,TP0071,Vijay Shankar,0.3,1,0,2,0,RR,DY Patil Stadium,14-Apr-22
+DBID0121,M006,TP0217,Wanindu Hasaranga,4,20,4,15,6,KKR,DY Patil Stadium,30-Mar-22
+DBID0122,M012,TP0240,Washington Sundar,4,28,2,10,12,LSG,DY Patil Stadium,4-Apr-22
+DBID0123,M024,TP0073,Yash Dayal,4,40,3,13,8,RR,DY Patil Stadium,14-Apr-22
+DBID0124,M013,TP0194,Yashasvi Jaiswal,0.1,6,0,0,0,RCB,Wankhede Stadium,5-Apr-22
+DBID0125,M039,TP0195,Yuzvendra Chahal,4,23,0,15,0,RCB,Maharashtra Cricket Association Stadium,26-Apr-22

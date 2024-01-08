@@ -1,0 +1,9 @@
+﻿CID,MatchID,PlayerID,PlayerName,Runs,BallsFaced,StrikeRate,4S,6S,Against,Venue,MatchDate
+CID001,M034,TP0177,Jos Buttler,116,57,178.46,9,9,DC,Wankhede Stadium,22-Apr-22
+CID002,M073,TP0177,Jos Buttler,106,59,176.66,10,6,RCB,Narendra Modi Stadium,27-May-22
+CID003,M030,TP0177,Jos Buttler,103,59,168.85,9,5,KKR,Brabourne,18-Apr-22
+CID004,M009,TP0177,Jos Buttler,100,66,147.05,11,5,MI,DY Patil Stadium,2-Apr-22
+CID005,M026,TP0109,KL Rahul,103,56,171.66,9,5,MI,Brabourne ,16-Apr-22
+CID006,M037,TP0109,KL Rahul,103,61,166.12,12,4,MI,Wankhede Stadium,24-Apr-22
+CID007,M066,TP0118,Quinton De Kock,140,59,200,10,10,KKR,DY Patil Stadium,18-May-22
+CID008,M072,TP0119,Shahbaz Nadeem,112,49,207.4,12,7,LSG,Eden Gardens,25-May-22

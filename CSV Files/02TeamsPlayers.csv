@@ -1,0 +1,244 @@
+﻿TeamPID,TeamID,PlayerID,Teams,ShortName,PlayerName,Specialism,Country
+TP0001,T001,P0011,Chennai Super Kings,CSK,Adam Milne,Bowler,New Zealand
+TP0002,T001,P0037,Chennai Super Kings,CSK,Ambati Rayudu,Wicket Keeper,India
+TP0003,T001,P0103,Chennai Super Kings,CSK,C Hari Nishaanth,Batsman,India
+TP0004,T001,P0116,Chennai Super Kings,CSK,Chris Jordan,All Rounder,England
+TP0005,T001,P0136,Chennai Super Kings,CSK,Deepak Chahar,Bowler,India
+TP0006,T001,P0140,Chennai Super Kings,CSK,Devon Conway,Batsman,New Zealand
+TP0007,T001,P0158,Chennai Super Kings,CSK,Dwaine Pretorius,All Rounder,South Africa
+TP0008,T001,P0159,Chennai Super Kings,CSK,Dwayne Bravo,All Rounder,West Indies
+TP0009,T001,P0249,Chennai Super Kings,CSK,KM Asif,Bowler,India
+TP0010,T001,P0252,Chennai Super Kings,CSK,K Bhagath Varma,All Rounder,India
+TP0011,T001,P0307,Chennai Super Kings,CSK,Maheesh Theekshana,Bowler,Sri Lanka
+TP0012,T001,P0338,Chennai Super Kings,CSK,Mitchell Santner,All Rounder,New Zealand
+TP0013,T001,P0350,Chennai Super Kings,CSK,MS Dhoni,Batsman,India
+TP0014,T001,P0353,Chennai Super Kings,CSK,Mukesh Choudhary,Bowler,India
+TP0015,T001,P0358,Chennai Super Kings,CSK,N Jagadeesan,Wicket Keeper,India
+TP0016,T001,P0397,Chennai Super Kings,CSK,Prashant Solanki,Bowler,India
+TP0017,T001,P0436,Chennai Super Kings,CSK,Rajvardhan Hangargekar,All Rounder,India
+TP0018,T001,P0444,Chennai Super Kings,CSK,Ravindra Jadeja,All Rounder,India
+TP0019,T001,P0456,Chennai Super Kings,CSK,Robin Uthappa,Batsman,India
+TP0020,T001,P0466,Chennai Super Kings,CSK,Ruturaj Gaikwad,Batsman,India
+TP0021,T001,P0517,Chennai Super Kings,CSK,Shivam Dube,All Rounder,India
+TP0022,T001,P0538,Chennai Super Kings,CSK,Simarjeet Singh,Bowler,India
+TP0023,T001,P0542,Chennai Super Kings,CSK,Subhranshu Senapati,Batsman,India
+TP0024,T001,P0574,Chennai Super Kings,CSK,Tushar Deshpande,Bowler,India
+TP0025,T002,P0052,Delhi Capitals,DC,Anrich Nortje,Bowler,South Africa
+TP0026,T002,P0070,Delhi Capitals,DC,Ashwin Hebbar,Batsman,India
+TP0027,T002,P0110,Delhi Capitals,DC,Chetan Sakariya,Bowler,India
+TP0028,T002,P0132,Delhi Capitals,DC,David Warner,Batsman,Australia
+TP0029,T002,P0250,Delhi Capitals,DC,K S Bharat,Wicket Keeper,India
+TP0030,T002,P0255,Delhi Capitals,DC,Kamlesh Nagarkoti,All Rounder,India
+TP0031,T002,P0271,Delhi Capitals,DC,Khaleel Ahmed,Bowler,India
+TP0032,T002,P0278,Delhi Capitals,DC,Kuldeep Yadav,Bowler,India
+TP0033,T002,P0289,Delhi Capitals,DC,Lalit Yadav,All Rounder,India
+TP0034,T002,P0299,Delhi Capitals,DC,Lungisani Ngidi,Bowler,South Africa
+TP0035,T002,P0311,Delhi Capitals,DC,Mandeep Singh,Batsman,India
+TP0036,T002,P0337,Delhi Capitals,DC,Mitchell Marsh,All Rounder,Australia
+TP0037,T002,P0357,Delhi Capitals,DC,Mustafizur Rahman,Bowler,Bangladesh
+TP0038,T002,P0401,Delhi Capitals,DC,Pravin Dubey,All Rounder,India
+TP0039,T002,P0407,Delhi Capitals,DC,Prithvi Shaw,Batsman,India
+TP0040,T002,P0451,Delhi Capitals,DC,Ripal Patel,All Rounder,India
+TP0041,T002,P0452,Delhi Capitals,DC,Rishabh Pant,Batsman,India
+TP0042,T002,P0464,Delhi Capitals,DC,Rovman Powell,Batsman,West Indies
+TP0043,T002,P0490,Delhi Capitals,DC,Sarfaraz Khan,All Rounder,India
+TP0044,T002,P0508,Delhi Capitals,DC,Shardul Thakur,Bowler,India
+TP0045,T002,P0552,Delhi Capitals,DC,Syed Khaleel Ahmed,Bowler,India
+TP0046,T002,P0568,Delhi Capitals,DC,Tim Seifert,Wicket Keeper,New Zealand
+TP0047,T002,P0590,Delhi Capitals,DC,Vicky Ostwal,All Rounder,India
+TP0048,T002,P0608,Delhi Capitals,DC,Yash Dhull,All Rounder,India
+TP0049,T003,P0007,Gujarat Titans,GT,Abhinav Sadarangani,Batsman,India
+TP0050,T003,P0034,Gujarat Titans,GT,Alzarri Joseph,Bowler,West Indies
+TP0051,T003,P0080,Gujarat Titans,GT,B Sai Sudarshan,All Rounder,India
+TP0052,T003,P0127,Gujarat Titans,GT,Darshan Nalkande,All Rounder,India
+TP0053,T003,P0131,Gujarat Titans,GT,David Miller,Batsman,South Africa
+TP0054,T003,P0153,Gujarat Titans,GT,Dominic Drakes,All Rounder,West Indies
+TP0055,T003,P0177,Gujarat Titans,GT,Gurkeerat Singh,All Rounder,India
+TP0056,T003,P0182,Gujarat Titans,GT,Hardik Pandya,All Rounder,India
+TP0057,T003,P0225,Gujarat Titans,GT,Jason Roy,Batsman,England
+TP0058,T003,P0229,Gujarat Titans,GT,Jayant Yadav,All Rounder,India
+TP0059,T003,P0257,Gujarat Titans,GT,Kane Williamson,Batsman,New Zealand
+TP0060,T003,P0296,Gujarat Titans,GT,Lockie Ferguson,Bowler,New Zealand
+TP0061,T003,P0326,Gujarat Titans,GT,Matthew Wade,Wicket Keeper,Australia
+TP0062,T003,P0340,Gujarat Titans,GT,Mohammad Shami,Bowler,India
+TP0063,T003,P0376,Gujarat Titans,GT,Noor Ahmad,Bowler,Afghanistan
+TP0064,T003,P0393,Gujarat Titans,GT,Pradeep Sangwan,All Rounder,India
+TP0065,T003,P0419,Gujarat Titans,GT,R Sai Kishore,Bowler,India
+TP0066,T003,P0432,Gujarat Titans,GT,Rahul Tewatia,All Rounder,India
+TP0067,T003,P0439,Gujarat Titans,GT,Rashid Khan,Bowler,India
+TP0068,T003,P0477,Gujarat Titans,GT,Sai Sudarshan,Batsman,India
+TP0069,T003,P0533,Gujarat Titans,GT,Shubman Gill,Batsman,India
+TP0070,T003,P0586,Gujarat Titans,GT,Varun Aaron,Bowler,India
+TP0071,T003,P0592,Gujarat Titans,GT,Vijay Shankar,All Rounder,India
+TP0072,T003,P0605,Gujarat Titans,GT,Wriddhiman Saha,Wicket Keeper,India
+TP0073,T003,P0607,Gujarat Titans,GT,Yash Dayal,Bowler,India
+TP0074,T004,P0002,Kolkata Knight Riders,KKR,Aaron Finch,Batsman,Australia
+TP0075,T004,P0005,Kolkata Knight Riders,KKR,Abhijeet Tomar,Batsman,India
+TP0076,T004,P0021,Kolkata Knight Riders,KKR,Ajinkya Rahane,Batsman,India
+TP0077,T004,P0031,Kolkata Knight Riders,KKR,Alex Hales,Batsman,England
+TP0078,T004,P0035,Kolkata Knight Riders,KKR,Aman Khan,All Rounder,India
+TP0079,T004,P0044,Kolkata Knight Riders,KKR,Andre Russell,All Rounder,West Indies
+TP0080,T004,P0056,Kolkata Knight Riders,KKR,Anukul Roy,All Rounder,India
+TP0081,T004,P0067,Kolkata Knight Riders,KKR,Ashok Sharma,Bowler,India
+TP0082,T004,P0082,Kolkata Knight Riders,KKR,Baba Indrajith,Wicket Keeper,India
+TP0083,T004,P0108,Kolkata Knight Riders,KKR,Chamika Karunaratne,All Rounder,Sri Lanka
+TP0084,T004,P0339,Kolkata Knight Riders,KKR,Mohammad Nabi,All Rounder,Afghanistan
+TP0085,T004,P0375,Kolkata Knight Riders,KKR,Nitish Rana,All Rounder,India
+TP0086,T004,P0387,Kolkata Knight Riders,KKR,Pat Cummins,All Rounder,Australia
+TP0087,T004,P0399,Kolkata Knight Riders,KKR,Pratham Singh,Batsman,India
+TP0088,T004,P0438,Kolkata Knight Riders,KKR,Ramesh Kumar,Batsman,India
+TP0089,T004,P0440,Kolkata Knight Riders,KKR,Rasikh Dar,Bowler,India
+TP0090,T004,P0450,Kolkata Knight Riders,KKR,Rinku Singh,Batsman,India
+TP0091,T004,P0478,Kolkata Knight Riders,KKR,Sam Billings,Wicket Keeper,England
+TP0092,T004,P0512,Kolkata Knight Riders,KKR,Sheldon Jackson,Wicket Keeper,India
+TP0093,T004,P0518,Kolkata Knight Riders,KKR,Shivam Mavi,All Rounder,India
+TP0094,T004,P0525,Kolkata Knight Riders,KKR,Shreyas Iyer,Batsman,India
+TP0095,T004,P0546,Kolkata Knight Riders,KKR,Sunil Narine,All Rounder,West Indies
+TP0096,T004,P0569,Kolkata Knight Riders,KKR,Tim Southee,Bowler,New Zealand
+TP0097,T004,P0576,Kolkata Knight Riders,KKR,Umesh Yadav,Bowler,India
+TP0098,T004,P0587,Kolkata Knight Riders,KKR,Varun Chakravarty,Bowler,India
+TP0099,T004,P0589,Kolkata Knight Riders,KKR,Venkatesh Iyer,All Rounder,India
+TP0100,T005,P0045,Lucknow Super Giants,LSG,Andrew Tye,Bowler,Australia
+TP0101,T005,P0049,Lucknow Super Giants,LSG,Ankit Singh Rajpoot,Bowler,India
+TP0102,T005,P0075,Lucknow Super Giants,LSG,Avesh Khan,Bowler,India
+TP0103,T005,P0077,Lucknow Super Giants,LSG,Ayush Badoni,All Rounder,India
+TP0104,T005,P0137,Lucknow Super Giants,LSG,Deepak Hooda,All Rounder,India
+TP0105,T005,P0157,Lucknow Super Giants,LSG,Dushmanta Chameera,Bowler,Sri Lanka
+TP0106,T005,P0162,Lucknow Super Giants,LSG,Evin Lewis,Batsman,West Indies
+TP0107,T005,P0224,Lucknow Super Giants,LSG,Jason Holder,All Rounder,West Indies
+TP0108,T005,P0245,Lucknow Super Giants,LSG,K Gowtham,All Rounder,India
+TP0109,T005,P0248,Lucknow Super Giants,LSG,KL Rahul,Batsman,India
+TP0110,T005,P0258,Lucknow Super Giants,LSG,Karan Sharma,All Rounder,India
+TP0111,T005,P0276,Lucknow Super Giants,LSG,Krunal Pandya,All Rounder,India
+TP0112,T005,P0286,Lucknow Super Giants,LSG,Kyle Mayers,All Rounder,West Indies
+TP0113,T005,P0309,Lucknow Super Giants,LSG,Manan Vohra,Batsman,India
+TP0114,T005,P0312,Lucknow Super Giants,LSG,Manish Pandey,Batsman,India
+TP0115,T005,P0320,Lucknow Super Giants,LSG,Mark Wood,Bowler,England
+TP0116,T005,P0331,Lucknow Super Giants,LSG,Mayank Yadav,Bowler,India
+TP0117,T005,P0348,Lucknow Super Giants,LSG,Mohsin Khan,Bowler,India
+TP0118,T005,P0417,Lucknow Super Giants,LSG,Quinton De Kock,Wicket Keeper,South Africa
+TP0119,T005,P0502,Lucknow Super Giants,LSG,Shahbaz Nadeem,Bowler,India
+TP0120,T006,P0051,Mumbai Indians,MI,Anmolpreet Singh,Batsman,India
+TP0121,T006,P0060,Mumbai Indians,MI,Arjun Tendulkar,All Rounder,India
+TP0122,T006,P0065,Mumbai Indians,MI,Aryan Juyal,Wicket Keeper,India
+TP0123,T006,P0087,Mumbai Indians,MI,Basil Thampi,Bowler,India
+TP0124,T006,P0123,Mumbai Indians,MI,Daniel Sams,All Rounder,Australia
+TP0125,T006,P0141,Mumbai Indians,MI,Dewald Brevis,Batsman,South Africa
+TP0126,T006,P0163,Mumbai Indians,MI,Fabian Allen,All Rounder,West Indies
+TP0127,T006,P0201,Mumbai Indians,MI,Hrithik Shokeen,All Rounder,India
+TP0128,T006,P0205,Mumbai Indians,MI,Ishan Kishan,Wicket Keeper,India
+TP0129,T006,P0227,Mumbai Indians,MI,Jasprit Bumrah,Bowler,India
+TP0130,T006,P0231,Mumbai Indians,MI,Jaydev Unadkat,Bowler,India
+TP0131,T006,P0235,Mumbai Indians,MI,Jofra Archer,All Rounder,England
+TP0132,T006,P0275,Mumbai Indians,MI,Kieron Pollard,All Rounder,West Indies
+TP0133,T006,P0329,Mumbai Indians,MI,Mayank Markande,Bowler,India
+TP0134,T006,P0344,Mumbai Indians,MI,Mohd. Arshad Khan,All Rounder,India
+TP0135,T006,P0356,Mumbai Indians,MI,Murugan Ashwin,Bowler,India
+TP0136,T006,P0359,Mumbai Indians,MI,N Tilak Varma,All Rounder,India
+TP0137,T006,P0426,Mumbai Indians,MI,Rahul Buddhi,Batsman,India
+TP0138,T006,P0437,Mumbai Indians,MI,Ramandeep Singh,All Rounder,India
+TP0139,T006,P0449,Mumbai Indians,MI,Riley Meredith,Bowler,Australia
+TP0140,T006,P0459,Mumbai Indians,MI,Rohit Sharma,Batsman,India
+TP0141,T006,P0486,Mumbai Indians,MI,Sanjay Yadav,All Rounder,India
+TP0142,T006,P0548,Mumbai Indians,MI,Suryakumar Yadav,Batsman,India
+TP0143,T006,P0566,Mumbai Indians,MI,Tilak Varma,Batsman,India
+TP0144,T006,P0567,Mumbai Indians,MI,Tim David,All Rounder,Australia
+TP0145,T006,P0575,Mumbai Indians,MI,Tymal Mills,Bowler,England
+TP0146,T007,P0053,Punjab Kings,PK,Ansh Patel,All Rounder,India
+TP0147,T007,P0062,Punjab Kings,PK,Arshdeep Singh,Bowler,India
+TP0148,T007,P0072,Punjab Kings,PK,Atharva Taide,All Rounder,India
+TP0149,T007,P0084,Punjab Kings,PK,Baltej Dhanda,Bowler,India
+TP0150,T007,P0092,Punjab Kings,PK,Benny Howell,All Rounder,England
+TP0151,T007,P0094,Punjab Kings,PK,Bhanuka Rajapaksa,Batsman,Sri Lanka
+TP0152,T007,P0185,Punjab Kings,PK,Harpreet Brar,All Rounder,India
+TP0153,T007,P0206,Punjab Kings,PK,Ishan Porel,Bowler,India
+TP0154,T007,P0233,Punjab Kings,PK,Jitesh Sharma,Wicket Keeper,India
+TP0155,T007,P0239,Punjab Kings,PK,Jonny Bairstow,Wicket Keeper,England
+TP0156,T007,P0253,Punjab Kings,PK,Kagiso Rabada,Bowler,South Africa
+TP0157,T007,P0294,Punjab Kings,PK,Liam Livingstone,All Rounder,England
+TP0158,T007,P0332,Punjab Kings,PK,Mayank Agarwal,Batsman,India
+TP0159,T007,P0363,Punjab Kings,PK,Nathan Ellis,Bowler,Australia
+TP0160,T007,P0380,Punjab Kings,PK,Odean Smith,All Rounder,West Indies
+TP0161,T007,P0392,Punjab Kings,PK,Prabhsimran Singh,Wicket Keeper,India
+TP0162,T007,P0403,Punjab Kings,PK,Prerak Mankad,All Rounder,India
+TP0163,T007,P0427,Punjab Kings,PK,Rahul Chahar,Bowler,India
+TP0164,T007,P0434,Punjab Kings,PK,Raj Angad Bawa,All Rounder,India
+TP0165,T007,P0453,Punjab Kings,PK,Rishi Dhawan,All Rounder,India
+TP0166,T007,P0483,Punjab Kings,PK,Sandeep Sharma,Bowler,India
+TP0167,T007,P0503,Punjab Kings,PK,Shahrukh Khan,All Rounder,India
+TP0168,T007,P0514,Punjab Kings,PK,Shikhar Dhawan,Batsman,India
+TP0169,T007,P0585,Punjab Kings,PK,Vaibhav Arora,Bowler,India
+TP0170,T007,P0606,Punjab Kings,PK,Writtick Chatterjee,All Rounder,India
+TP0171,T008,P0057,Rajasthan Royals,RR,Anunay Singh,All Rounder,India
+TP0172,T008,P0120,Rajasthan Royals,RR,Corbin Bosch,Bowler,South Africa
+TP0173,T008,P0128,Rajasthan Royals,RR,Daryl Mitchell,All Rounder,New Zealand
+TP0174,T008,P0139,Rajasthan Royals,RR,Devdutt Padikkal,Batsman,India
+TP0175,T008,P0146,Rajasthan Royals,RR,Dhruv Jurel,Wicket Keeper,India
+TP0176,T008,P0219,Rajasthan Royals,RR,James Neesham,All Rounder,New Zealand
+TP0177,T008,P0241,Rajasthan Royals,RR,Jos Buttler,Wicket Keeper,England
+TP0178,T008,P0246,Rajasthan Royals,RR,K C Cariappa,Bowler,India
+TP0179,T008,P0263,Rajasthan Royals,RR,Karun Nair,Batsman,India
+TP0180,T008,P0277,Rajasthan Royals,RR,Kuldeep Sen,Bowler,India
+TP0181,T008,P0279,Rajasthan Royals,RR,Kuldip Yadav,Bowler,India
+TP0182,T008,P0362,Rajasthan Royals,RR,Nathan Coulter-Nile,Bowler,Australia
+TP0183,T008,P0366,Rajasthan Royals,RR,Navdeep Saini,Bowler,India
+TP0184,T008,P0379,Rajasthan Royals,RR,Obed Mccoy,Bowler,West Indies
+TP0185,T008,P0398,Rajasthan Royals,RR,Prasidh Krishna,Bowler,India
+TP0186,T008,P0418,Rajasthan Royals,RR,R Ashwin,All Rounder,India
+TP0187,T008,P0441,Rajasthan Royals,RR,Rassie Van Der Dussen,Batsman,South Africa
+TP0188,T008,P0455,Rajasthan Royals,RR,Riyan Parag,All Rounder,India
+TP0189,T008,P0487,Rajasthan Royals,RR,Sanju Samson,Wicket Keeper,India
+TP0190,T008,P0515,Rajasthan Royals,RR,Shimron Hetmyer,Batsman,West Indies
+TP0191,T008,P0526,Rajasthan Royals,RR,Shubham Garhwal,All Rounder,India
+TP0192,T008,P0564,Rajasthan Royals,RR,Tejas Baroka,Bowler,India
+TP0193,T008,P0573,Rajasthan Royals,RR,Trent Boult,Bowler,New Zealand
+TP0194,T008,P0611,Rajasthan Royals,RR,Yashasvi Jaiswal,Batsman,India
+TP0195,T008,P0616,Rajasthan Royals,RR,Yuzvendra Chahal,Bowler,India
+TP0196,T009,P0023,Royal Challengers Bangalore,RCB,Akash Deep,Bowler,India
+TP0197,T009,P0046,Royal Challengers Bangalore,RCB,Aneeshwar Gautam,All Rounder,India
+TP0198,T009,P0055,Royal Challengers Bangalore,RCB,Anuj Rawat,Wicket Keeper,India
+TP0199,T009,P0107,Royal Challengers Bangalore,RCB,Chama Milind,Bowler,India
+TP0200,T009,P0134,Royal Challengers Bangalore,RCB,David Willey,All Rounder,England
+TP0201,T009,P0150,Royal Challengers Bangalore,RCB,Dinesh Karthik,Wicket Keeper,India
+TP0202,T009,P0164,Royal Challengers Bangalore,RCB,Faf Du Plessis,Batsman,South Africa
+TP0203,T009,P0168,Royal Challengers Bangalore,RCB,Finn Allen,Batsman,New Zealand
+TP0204,T009,P0175,Royal Challengers Bangalore,RCB,Glenn Maxwell,All Rounder,Australia
+TP0205,T009,P0188,Royal Challengers Bangalore,RCB,Harshal Patel,All Rounder,India
+TP0206,T009,P0223,Royal Challengers Bangalore,RCB,Jason Behrendorff,Bowler,Australia
+TP0207,T009,P0242,Royal Challengers Bangalore,RCB,Josh Hazlewood,Bowler,Australia
+TP0208,T009,P0260,Royal Challengers Bangalore,RCB,Karn Sharma,Bowler,India
+TP0209,T009,P0300,Royal Challengers Bangalore,RCB,Luvnith Sisodia,Wicket Keeper,India
+TP0210,T009,P0308,Royal Challengers Bangalore,RCB,Mahipal Lomror,All Rounder,India
+TP0211,T009,P0343,Royal Challengers Bangalore,RCB,Mohammed Siraj,Bowler,India
+TP0212,T009,P0501,Royal Challengers Bangalore,RCB,Shahbaz Ahamad,All Rounder,India
+TP0213,T009,P0513,Royal Challengers Bangalore,RCB,Sherfane Rutherford,All Rounder,West Indies
+TP0214,T009,P0535,Royal Challengers Bangalore,RCB,Siddharth Kaul,Bowler,India
+TP0215,T009,P0550,Royal Challengers Bangalore,RCB,Suyash Prabhudessai,All Rounder,Bowler
+TP0216,T009,P0595,Royal Challengers Bangalore,RCB,Virat Kohli,Batsman,India
+TP0217,T009,P0600,Royal Challengers Bangalore,RCB,Wanindu Hasaranga,All Rounder,Sri Lanka
+TP0218,T010,P0003,Sunrisers Hyderabad,SRH,Abdul Samad,All Rounder,India
+TP0219,T010,P0009,Sunrisers Hyderabad,SRH,Abhishek Sharma,All Rounder,India
+TP0220,T010,P0018,Sunrisers Hyderabad,SRH,Aiden Markram,Batsman,South Africa
+TP0221,T010,P0097,Sunrisers Hyderabad,SRH,Bhuvneshwar Kumar,Bowler,India
+TP0222,T010,P0165,Sunrisers Hyderabad,SRH,Fazalhaq Farooqi,Bowler,Afghanistan
+TP0223,T010,P0174,Sunrisers Hyderabad,SRH,Glenn Phillips,Wicket Keeper,New Zealand
+TP0224,T010,P0186,Sunrisers Hyderabad,SRH,Harry Brook,Batsman,England
+TP0225,T010,P0214,Sunrisers Hyderabad,SRH,Jagadeesha Suchith,Bowler,India
+TP0226,T010,P0261,Sunrisers Hyderabad,SRH,Kartik Tyagi,Bowler,India
+TP0227,T010,P0317,Sunrisers Hyderabad,SRH,Marco Jansen,All Rounder,South Africa
+TP0228,T010,P0369,Sunrisers Hyderabad,SRH,Nicholas Pooran,Wicket Keeper,West Indies
+TP0229,T010,P0409,Sunrisers Hyderabad,SRH,Priyam Garg,Batsman,India
+TP0230,T010,P0420,Sunrisers Hyderabad,SRH,R Samarth,Batsman,India
+TP0231,T010,P0433,Sunrisers Hyderabad,SRH,Rahul Tripathi,Batsman,India
+TP0232,T010,P0460,Sunrisers Hyderabad,SRH,Romario Shepherd,All Rounder,West Indies
+TP0233,T010,P0492,Sunrisers Hyderabad,SRH,Saurabh Dubey,Bowler,India
+TP0234,T010,P0498,Sunrisers Hyderabad,SRH,Sean Abbott,Bowler,Australia
+TP0235,T010,P0509,Sunrisers Hyderabad,SRH,Shashank Singh,All Rounder,India
+TP0236,T010,P0524,Sunrisers Hyderabad,SRH,Shreyas Gopal,Bowler,India
+TP0237,T010,P0553,Sunrisers Hyderabad,SRH,T Natarajan,Bowler,India
+TP0238,T010,P0577,Sunrisers Hyderabad,SRH,Umran Malik,Bowler,India
+TP0239,T010,P0597,Sunrisers Hyderabad,SRH,Vishnu Vinod,Wicket Keeper,India
+TP0240,T010,P0602,Sunrisers Hyderabad,SRH,Washington Sundar,All Rounder,India
+TP0241,T002,P0620,Delhi Capitals,DC,Axar Patel,Batsman,Afghanistan
+TP0242,T001,P0621,Chennai Super Kings,CSK,Moeen Ali,Batsman,Bangladesh
+TP0243,T005,P0622,Lucknow Super Giants,LSG,Marcus Stoinis,Batsman,South Africa

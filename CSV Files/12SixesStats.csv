@@ -1,0 +1,515 @@
+﻿SSID,MatchID,PlayerID,PlayerName,Runs,BallFaced,StrikeRate,6s,Against,Venue,MatchDate
+SSID0001,M030,TP0074,Aaron Finch,58,28,207.14,2,RR,Brabourne,18-Apr-22
+SSID0002,M025,TP0074,Aaron Finch,7,5,140,1,SRH,Brabourne,15-Apr-22
+SSID0003,M024,TP0049,Abhinav Sadarangani,43,28,153.57,2,RR,DY Patil Stadium,14-Apr-22
+SSID0004,M021,TP0049,Abhinav Sadarangani,35,21,166.66,1,SRH,DY Patil Stadium,11-Apr-22
+SSID0005,M040,TP0219,Abhishek Sharma,65,42,154.76,3,GT,Wankhede Stadium,27-Apr-22
+SSID0006,M017,TP0219,Abhishek Sharma,75,50,150,3,CSK,DY Patil Stadium,9-Apr-22
+SSID0007,M061,TP0219,Abhishek Sharma,43,28,153.57,2,KKR,Maharashtra Cricket Association Stadium,14-May-22
+SSID0008,M070,TP0219,Abhishek Sharma,43,32,134.37,2,PK,Wankhede Stadium,22-May-22
+SSID0009,M028,TP0219,Abhishek Sharma,31,25,124,1,PK,DY Patil Stadium,17-Apr-22
+SSID0010,M045,TP0219,Abhishek Sharma,39,24,162.5,1,CSK,Maharashtra Cricket Association Stadium,1-May-22
+SSID0011,M035,TP0219,Abhishek Sharma,47,28,167.85,1,RCB,Brabourne,23-Apr-22
+SSID0012,M025,TP0220,Aiden Markram,68,36,188.88,4,KKR,Brabourne,15-Apr-22
+SSID0013,M050,TP0220,Aiden Markram,42,25,168,3,DC,Brabourne,5-May-22
+SSID0014,M061,TP0220,Aiden Markram,32,25,128,3,KKR,Maharashtra Cricket Association Stadium,14-May-22
+SSID0015,M040,TP0220,Aiden Markram,56,40,140,3,GT,Wankhede Stadium,27-Apr-22
+SSID0016,M045,TP0220,Aiden Markram,17,10,170,2,CSK,Maharashtra Cricket Association Stadium,1-May-22
+SSID0017,M005,TP0220,Aiden Markram,57,41,139.02,2,RR,Maharashtra Cricket Association Stadium,29-Mar-22
+SSID0018,M054,TP0220,Aiden Markram,21,27,77.77,1,RCB,Wankhede Stadium,8-May-22
+SSID0019,M028,TP0220,Aiden Markram,41,27,151.85,1,PK,DY Patil Stadium,17-Apr-22
+SSID0020,M061,TP0076,Ajinkya Rahane,28,24,116.66,3,SRH,Maharashtra Cricket Association Stadium,14-May-22
+SSID0021,M001,TP0076,Ajinkya Rahane,44,34,129.41,1,CSK,Wankhede Stadium,26-Mar-22
+SSID0022,M038,TP0002,Ambati Rayudu,78,39,200,6,PK,Wankhede Stadium,25-Apr-22
+SSID0023,M033,TP0002,Ambati Rayudu,40,35,114.28,3,MI,DY Patil Stadium,21-Apr-22
+SSID0024,M028,TP0002,Ambati Rayudu,46,31,148.38,2,GT,Maharashtra Cricket Association Stadium,17-Apr-22
+SSID0025,M007,TP0002,Ambati Rayudu,27,20,135,2,LSG,Brabourne,31-Mar-22
+SSID0026,M049,TP0002,Ambati Rayudu,10,8,125,1,RCB,Maharashtra Cricket Association Stadium,4-May-22
+SSID0027,M001,TP0002,Ambati Rayudu,15,17,88.23,1,KKR,Wankhede Stadium,26-Mar-22
+SSID0028,M008,TP0079,Andre Russell,70,31,225.8,8,PK,Wankhede Stadium,1-Apr-22
+SSID0029,M035,TP0079,Andre Russell,48,25,192,6,GT,DY Patil Stadium,23-Apr-22
+SSID0030,M052,TP0079,Andre Russell,45,19,236.84,5,LSG,Maharashtra Cricket Association Stadium,7-May-22
+SSID0031,M025,TP0079,Andre Russell,49,25,196,4,SRH,Brabourne,15-Apr-22
+SSID0032,M061,TP0079,Andre Russell,49,28,175,4,SRH,Maharashtra Cricket Association Stadium,14-May-22
+SSID0033,M006,TP0079,Andre Russell,25,18,138.88,3,RCB,DY Patil Stadium,30-Mar-22
+SSID0034,M056,TP0079,Andre Russell,9,5,180,1,MI,DY Patil Stadium,9-May-22
+SSID0035,M014,TP0079,Andre Russell,11,5,220,1,MI,Maharashtra Cricket Association Stadium,6-Apr-22
+SSID0036,M017,TP0198,Anuj Rawat,66,47,140.42,6,MI,Maharashtra Cricket Association Stadium,9-Apr-22
+SSID0037,M002,TP0198,Anuj Rawat,21,20,105,1,PK,DY Patil Stadium,27-Mar-22
+SSID0038,M057,TP0102,Avesh Khan,12,4,300,2,GT,Maharashtra Cricket Association Stadium,10-May-22
+SSID0039,M019,TP0102,Avesh Khan,7,2,350,1,RR,Wankhede Stadium,10-Apr-22
+SSID0040,M002,TP0241,Axar Patel,38,17,223.52,3,MI,Brabourne,27-Mar-22
+SSID0041,M045,TP0241,Axar Patel,42,24,175,3,LSG,Wankhede Stadium,1-May-22
+SSID0042,M069,TP0241,Axar Patel,19,10,190,2,MI,Wankhede Stadium,21-May-22
+SSID0043,M019,TP0241,Axar Patel,22,14,157.14,1,KKR,Brabourne,10-Apr-22
+SSID0044,M041,TP0241,Axar Patel,24,17,141.17,1,KKR,Wankhede Stadium,28-Apr-22
+SSID0045,M004,TP0103,Ayush Badoni,54,41,131.7,3,GT,Wankhede Stadium,28-Mar-22
+SSID0046,M007,TP0103,Ayush Badoni,19,9,211.11,2,CSK,Brabourne,31-Mar-22
+SSID0047,M037,TP0103,Ayush Badoni,14,11,127.27,1,MI,Wankhede Stadium,24-Apr-22
+SSID0048,M015,TP0103,Ayush Badoni,10,3,333.33,1,DC,DY Patil Stadium,7-Apr-22
+SSID0049,M002,TP0151,Bhanuka Rajapaksa,43,22,195.45,4,RCB,DY Patil Stadium,27-Mar-22
+SSID0050,M008,TP0151,Bhanuka Rajapaksa,31,9,344.44,3,KKR,Wankhede Stadium,1-Apr-22
+SSID0051,M052,TP0151,Bhanuka Rajapaksa,27,18,150,2,RR,Wankhede Stadium,7-May-22
+SSID0052,M038,TP0151,Bhanuka Rajapaksa,42,32,131.25,2,CSK,Wankhede Stadium,25-Apr-22
+SSID0053,M011,TP0151,Bhanuka Rajapaksa,9,5,180,1,CSK,Brabourne,3-Apr-22
+SSID0054,M048,TP0151,Bhanuka Rajapaksa,40,28,142.85,1,GT,DY Patil Stadium,3-May-22
+SSID0055,M002,TP0124,Daniel Sams,7,2,350,1,DC,Brabourne,27-Mar-22
+SSID0056,M043,TP0124,Daniel Sams,6,1,600,1,RR,DY Patil Stadium,30-Apr-22
+SSID0057,M065,TP0124,Daniel Sams,15,11,136.36,1,SRH,Wankhede Stadium,17-May-22
+SSID0058,M028,TP0053,David Miller,94,51,184.31,6,CSK,Maharashtra Cricket Association Stadium,17-Apr-22
+SSID0059,M071,TP0053,David Miller,68,38,178.94,5,RR,Eden Gardens,24-May-22
+SSID0060,M067,TP0053,David Miller,34,25,136,3,RCB,Wankhede Stadium,19-May-22
+SSID0061,M004,TP0053,David Miller,30,21,142.85,2,LSG,Wankhede Stadium,28-Mar-22
+SSID0062,M035,TP0053,David Miller,27,20,135,2,KKR,DY Patil Stadium,23-Apr-22
+SSID0063,M051,TP0053,David Miller,19,14,135.71,1,MI,Brabourne,6-May-22
+SSID0064,M024,TP0053,David Miller,31,14,221.42,1,RR,DY Patil Stadium,14-Apr-22
+SSID0065,M074,TP0053,David Miller,32,19,168.42,1,RR,Narendra Modi Stadium,29-May-22
+SSID0066,M057,TP0053,David Miller,26,24,108.33,1,LSG,Maharashtra Cricket Association Stadium,10-May-22
+SSID0067,M043,TP0053,David Miller,39,24,162.5,1,RCB,Brabourne,30-Apr-22
+SSID0068,M026,TP0028,David Warner,66,38,173.68,5,RCB,Wankhede Stadium,16-Apr-22
+SSID0069,M050,TP0028,David Warner,92,58,158.62,3,SRH,Brabourne,5-May-22
+SSID0070,M019,TP0028,David Warner,61,45,135.55,2,KKR,Brabourne,10-Apr-22
+SSID0071,M054,TP0028,David Warner,19,12,158.33,2,CSK,DY Patil Stadium,8-May-22
+SSID0072,M034,TP0028,David Warner,28,14,200,1,RR,Wankhede Stadium,22-Apr-22
+SSID0073,M058,TP0028,David Warner,52,41,126.82,1,RR,DY Patil Stadium,11-May-22
+SSID0074,M032,TP0028,David Warner,60,30,200,1,PK,Brabourne,20-Apr-22
+SSID0075,M072,TP0104,Deepak Hooda,45,26,173.07,4,RCB,Eden Gardens,25-May-22
+SSID0076,M012,TP0104,Deepak Hooda,51,33,154.54,3,SRH,DY Patil Stadium,4-Apr-22
+SSID0077,M062,TP0104,Deepak Hooda,59,39,151.28,2,RR,Brabourne,15-May-22
+SSID0078,M004,TP0104,Deepak Hooda,55,41,134.14,2,GT,Wankhede Stadium,28-Mar-22
+SSID0079,M042,TP0104,Deepak Hooda,34,28,121.42,2,PK,Maharashtra Cricket Association Stadium,29-Apr-22
+SSID0080,M052,TP0104,Deepak Hooda,41,27,151.85,2,KKR,Maharashtra Cricket Association Stadium,7-May-22
+SSID0081,M007,TP0104,Deepak Hooda,13,8,162.5,1,CSK,Brabourne,31-Mar-22
+SSID0082,M026,TP0104,Deepak Hooda,15,8,187.5,1,MI,Brabourne,16-Apr-22
+SSID0083,M045,TP0104,Deepak Hooda,52,34,152.94,1,DC,Wankhede Stadium,1-May-22
+SSID0084,M013,TP0174,Devdutt Padikkal,37,29,127.58,2,RCB,Wankhede Stadium,5-Apr-22
+SSID0085,M034,TP0174,Devdutt Padikkal,54,35,154.28,2,DC,Wankhede Stadium,22-Apr-22
+SSID0086,M062,TP0174,Devdutt Padikkal,39,18,216.66,2,LSG,Brabourne,15-May-22
+SSID0087,M005,TP0174,Devdutt Padikkal,41,29,141.37,2,SRH,Maharashtra Cricket Association Stadium,29-Mar-22
+SSID0088,M071,TP0174,Devdutt Padikkal,28,20,140,2,GT,Eden Gardens,24-May-22
+SSID0089,M058,TP0174,Devdutt Padikkal,48,30,160,2,DC,DY Patil Stadium,11-May-22
+SSID0090,M030,TP0174,Devdutt Padikkal,24,18,133.33,1,KKR,Brabourne,18-Apr-22
+SSID0091,M039,TP0174,Devdutt Padikkal,7,7,100,1,RCB,Maharashtra Cricket Association Stadium,26-Apr-22
+SSID0092,M054,TP0006,Devon Conway,87,49,177.55,5,DC,DY Patil Stadium,8-May-22
+SSID0093,M045,TP0006,Devon Conway,85,55,154.54,4,SRH,Maharashtra Cricket Association Stadium,1-May-22
+SSID0094,M049,TP0006,Devon Conway,56,37,151.35,2,RCB,Maharashtra Cricket Association Stadium,4-May-22
+SSID0095,M068,TP0006,Devon Conway,16,14,114.28,1,RR,Brabourne,20-May-22
+SSID0096,M023,TP0125,Dewald Brevis,49,25,196,5,PK,Maharashtra Cricket Association Stadium,13-Apr-22
+SSID0097,M069,TP0125,Dewald Brevis,37,33,112.12,3,DC,Wankhede Stadium,21-May-22
+SSID0098,M014,TP0125,Dewald Brevis,29,19,152.63,2,KKR,Maharashtra Cricket Association Stadium,6-Apr-22
+SSID0099,M026,TP0125,Dewald Brevis,31,13,238.46,1,LSG,Brabourne,16-Apr-22
+SSID0100,M026,TP0201,Dinesh Karthik,66,34,194.11,5,DC,Wankhede Stadium,16-Apr-22
+SSID0101,M054,TP0201,Dinesh Karthik,30,8,375,4,SRH,Wankhede Stadium,8-May-22
+SSID0102,M002,TP0201,Dinesh Karthik,32,14,228.57,3,PK,DY Patil Stadium,27-Mar-22
+SSID0103,M022,TP0201,Dinesh Karthik,34,14,242.85,3,CSK,DY Patil Stadium,12-Apr-22
+SSID0104,M049,TP0201,Dinesh Karthik,26,17,152.94,2,CSK,Maharashtra Cricket Association Stadium,4-May-22
+SSID0105,M031,TP0201,Dinesh Karthik,13,8,162.5,1,LSG,DY Patil Stadium,19-Apr-22
+SSID0106,M017,TP0201,Dinesh Karthik,7,2,350,1,MI,Maharashtra Cricket Association Stadium,9-Apr-22
+SSID0107,M013,TP0201,Dinesh Karthik,44,23,191.3,1,RR,Wankhede Stadium,5-Apr-22
+SSID0108,M006,TP0201,Dinesh Karthik,14,7,200,1,KKR,DY Patil Stadium,30-Mar-22
+SSID0109,M072,TP0201,Dinesh Karthik,37,23,160.86,1,LSG,Eden Gardens,25-May-22
+SSID0110,M042,TP0105,Dushmanta Chameera,17,10,170,2,PK,Maharashtra Cricket Association Stadium,29-Apr-22
+SSID0111,M072,TP0105,Dushmanta Chameera,11,4,275,1,RCB,Eden Gardens,25-May-22
+SSID0112,M011,TP0007,Dwaine Pretorius,8,4,200,1,PK,Brabourne,3-Apr-22
+SSID0113,M033,TP0007,Dwaine Pretorius,22,14,157.14,1,MI,DY Patil Stadium,21-Apr-22
+SSID0114,M049,TP0007,Dwaine Pretorius,13,8,162.5,1,RCB,Maharashtra Cricket Association Stadium,4-May-22
+SSID0115,M059,TP0008,Dwayne Bravo,12,15,80,1,MI,Wankhede Stadium,12-May-22
+SSID0116,M007,TP0106,Evin Lewis,55,23,239.13,3,CSK,Brabourne,31-Mar-22
+SSID0117,M002,TP0202,Faf Du Plessis,88,57,154.38,7,PK,DY Patil Stadium,27-Mar-22
+SSID0118,M031,TP0202,Faf Du Plessis,96,64,150,2,LSG,DY Patil Stadium,19-Apr-22
+SSID0119,M054,TP0202,Faf Du Plessis,73,50,146,2,SRH,Wankhede Stadium,8-May-22
+SSID0120,M049,TP0202,Faf Du Plessis,38,22,172.72,1,CSK,Maharashtra Cricket Association Stadium,4-May-22
+SSID0121,M039,TP0202,Faf Du Plessis,23,21,109.52,1,RR,Maharashtra Cricket Association Stadium,26-Apr-22
+SSID0122,M054,TP0204,Glenn Maxwell,33,24,137.5,2,SRH,Wankhede Stadium,8-May-22
+SSID0123,M043,TP0204,Glenn Maxwell,33,18,183.33,2,GT,Brabourne,30-Apr-22
+SSID0124,M067,TP0204,Glenn Maxwell,40,18,222.22,2,GT,Wankhede Stadium,19-May-22
+SSID0125,M026,TP0204,Glenn Maxwell,55,34,161.76,2,DC,Wankhede Stadium,16-Apr-22
+SSID0126,M022,TP0204,Glenn Maxwell,26,11,236.36,2,CSK,DY Patil Stadium,12-Apr-22
+SSID0127,M073,TP0204,Glenn Maxwell,24,13,184.61,2,RR,Narendra Modi Stadium,27-May-22
+SSID0128,M060,TP0204,Glenn Maxwell,35,22,159.09,1,PK,Brabourne,13-May-22
+SSID0129,M072,TP0204,Glenn Maxwell,9,10,90,1,LSG,Eden Gardens,25-May-22
+SSID0130,M031,TP0204,Glenn Maxwell,23,11,209.09,1,LSG,DY Patil Stadium,19-Apr-22
+SSID0131,M024,TP0056,Hardik Pandya,87,52,167.3,4,RR,DY Patil Stadium,14-Apr-22
+SSID0132,M067,TP0056,Hardik Pandya,62,47,131.91,3,RCB,Wankhede Stadium,19-May-22
+SSID0133,M035,TP0056,Hardik Pandya,67,49,136.73,2,KKR,DY Patil Stadium,23-Apr-22
+SSID0134,M004,TP0056,Hardik Pandya,33,28,117.85,1,LSG,Wankhede Stadium,28-Mar-22
+SSID0135,M021,TP0056,Hardik Pandya,50,42,119.04,1,SRH,DY Patil Stadium,11-Apr-22
+SSID0136,M074,TP0056,Hardik Pandya,34,30,113.33,1,RR,Narendra Modi Stadium,29-May-22
+SSID0137,M008,TP0152,Harpreet Brar,14,18,77.77,1,KKR,Wankhede Stadium,1-Apr-22
+SSID0138,M060,TP0152,Harpreet Brar,7,5,140,1,RCB,Brabourne,13-May-22
+SSID0139,M039,TP0205,Harshal Patel,8,11,72.72,1,RR,Maharashtra Cricket Association Stadium,26-Apr-22
+SSID0140,M013,TP0205,Harshal Patel,9,4,225,1,RR,Wankhede Stadium,5-Apr-22
+SSID0141,M069,TP0128,Ishan Kishan,48,35,137.14,4,DC,Wankhede Stadium,21-May-22
+SSID0142,M002,TP0128,Ishan Kishan,81,48,168.75,2,DC,Brabourne,27-Mar-22
+SSID0143,M056,TP0128,Ishan Kishan,51,43,118.6,1,KKR,DY Patil Stadium,9-May-22
+SSID0144,M051,TP0128,Ishan Kishan,45,29,155.17,1,GT,Brabourne,6-May-22
+SSID0145,M009,TP0128,Ishan Kishan,54,43,125.58,1,RR,DY Patil Stadium,2-Apr-22
+SSID0146,M065,TP0128,Ishan Kishan,43,34,126.47,1,SRH,Wankhede Stadium,17-May-22
+SSID0147,M043,TP0128,Ishan Kishan,26,18,144.44,1,RR,DY Patil Stadium,30-Apr-22
+SSID0148,M062,TP0003,C Hari Nishaanth,39,33,118.18,1,GT,Wankhede Stadium,15-May-22
+SSID0149,M031,TP0107,Jason Holder,16,9,177.77,2,RCB,DY Patil Stadium,19-Apr-22
+SSID0150,M052,TP0107,Jason Holder,13,4,325,2,KKR,Maharashtra Cricket Association Stadium,7-May-22
+SSID0151,M042,TP0107,Jason Holder,11,8,137.5,1,PK,Maharashtra Cricket Association Stadium,29-Apr-22
+SSID0152,M012,TP0107,Jason Holder,8,3,266.66,1,SRH,DY Patil Stadium,4-Apr-22
+SSID0153,M026,TP0130,Jaydev Unadkat,14,6,233.33,1,LSG,Brabourne,16-Apr-22
+SSID0154,M033,TP0130,Jaydev Unadkat,19,9,211.11,1,CSK,DY Patil Stadium,21-Apr-22
+SSID0155,M023,TP0130,Jaydev Unadkat,12,7,171.42,1,PK,Maharashtra Cricket Association Stadium,13-Apr-22
+SSID0156,M011,TP0154,Jitesh Sharma,26,17,152.94,3,CSK,Brabourne,3-Apr-22
+SSID0157,M064,TP0154,Jitesh Sharma,44,34,129.41,2,DC,DY Patil Stadium,16-May-22
+SSID0158,M023,TP0154,Jitesh Sharma,30,15,200,2,MI,Maharashtra Cricket Association Stadium,13-Apr-22
+SSID0159,M016,TP0154,Jitesh Sharma,23,11,209.09,2,GT,Brabourne,8-Apr-22
+SSID0160,M052,TP0154,Jitesh Sharma,38,18,211.11,2,RR,Wankhede Stadium,7-May-22
+SSID0161,M070,TP0154,Jitesh Sharma,19,7,271.42,1,SRH,Wankhede Stadium,22-May-22
+SSID0162,M060,TP0155,Jonny Bairstow,66,29,227.58,7,RCB,Brabourne,13-May-22
+SSID0163,M064,TP0155,Jonny Bairstow,28,15,186.66,1,DC,DY Patil Stadium,16-May-22
+SSID0164,M052,TP0155,Jonny Bairstow,56,40,140,1,RR,Wankhede Stadium,7-May-22
+SSID0165,M034,TP0177,Jos Buttler,116,65,178.46,9,DC,Wankhede Stadium,22-Apr-22
+SSID0166,M013,TP0177,Jos Buttler,70,47,148.93,6,RCB,Wankhede Stadium,5-Apr-22
+SSID0167,M073,TP0177,Jos Buttler,106,60,176.66,6,RCB,Narendra Modi Stadium,27-May-22
+SSID0168,M030,TP0177,Jos Buttler,103,61,168.85,5,KKR,Brabourne,18-Apr-22
+SSID0169,M009,TP0177,Jos Buttler,100,68,147.05,5,MI,DY Patil Stadium,2-Apr-22
+SSID0170,M043,TP0177,Jos Buttler,67,52,128.84,4,MI,DY Patil Stadium,30-Apr-22
+SSID0171,M024,TP0177,Jos Buttler,54,24,225,3,GT,DY Patil Stadium,14-Apr-22
+SSID0172,M005,TP0177,Jos Buttler,35,28,125,3,SRH,Maharashtra Cricket Association Stadium,29-Mar-22
+SSID0173,M071,TP0177,Jos Buttler,89,56,158.92,2,GT,Eden Gardens,24-May-22
+SSID0174,M019,TP0177,Jos Buttler,13,11,118.18,1,LSG,Wankhede Stadium,10-Apr-22
+SSID0175,M052,TP0177,Jos Buttler,30,16,187.5,1,PK,Wankhede Stadium,7-May-22
+SSID0176,M026,TP0109,KL Rahul,103,60,171.66,5,MI,Brabourne,16-Apr-22
+SSID0177,M072,TP0109,KL Rahul,79,58,136.2,5,RCB,Eden Gardens,25-May-22
+SSID0178,M045,TP0109,KL Rahul,77,51,150.98,5,DC,Wankhede Stadium,1-May-22
+SSID0179,M037,TP0109,KL Rahul,103,62,166.12,4,MI,Wankhede Stadium,24-Apr-22
+SSID0180,M066,TP0109,KL Rahul,68,51,133.33,4,KKR,DY Patil Stadium,18-May-22
+SSID0181,M007,TP0109,KL Rahul,40,26,153.84,3,CSK,Brabourne,31-Mar-22
+SSID0182,M012,TP0109,KL Rahul,68,50,136,1,SRH,DY Patil Stadium,4-Apr-22
+SSID0183,M062,TP0109,KL Rahul,10,19,52.63,1,RR,Brabourne,15-May-22
+SSID0184,M031,TP0109,KL Rahul,30,24,125,1,RCB,DY Patil Stadium,19-Apr-22
+SSID0185,M015,TP0109,KL Rahul,24,25,96,1,DC,DY Patil Stadium,7-Apr-22
+SSID0186,M008,TP0156,Kagiso Rabada,25,16,156.25,1,KKR,Wankhede Stadium,1-Apr-22
+SSID0187,M064,TP0156,Kagiso Rabada,6,2,300,1,DC,DY Patil Stadium,16-May-22
+SSID0188,M021,TP0059,Kane Williamson,57,46,123.91,4,GT,DY Patil Stadium,11-Apr-22
+SSID0189,M045,TP0059,Kane Williamson,47,37,127.02,2,CSK,Maharashtra Cricket Association Stadium,1-May-22
+SSID0190,M012,TP0059,Kane Williamson,16,16,100,1,LSG,DY Patil Stadium,4-Apr-22
+SSID0191,M017,TP0059,Kane Williamson,32,40,80,1,CSK,DY Patil Stadium,9-Apr-22
+SSID0192,M014,TP0132,Kieron Pollard,22,5,440,3,KKR,Maharashtra Cricket Association Stadium,6-Apr-22
+SSID0193,M026,TP0132,Kieron Pollard,25,14,178.57,2,LSG,Brabourne,16-Apr-22
+SSID0194,M033,TP0132,Kieron Pollard,14,9,155.55,1,CSK,DY Patil Stadium,21-Apr-22
+SSID0195,M056,TP0132,Kieron Pollard,15,16,93.75,1,KKR,DY Patil Stadium,9-May-22
+SSID0196,M009,TP0132,Kieron Pollard,22,24,91.66,1,RR,DY Patil Stadium,2-Apr-22
+SSID0197,M037,TP0132,Kieron Pollard,19,20,95,1,LSG,Wankhede Stadium,24-Apr-22
+SSID0198,M031,TP0111,Krunal Pandya,42,28,150,2,RCB,DY Patil Stadium,19-Apr-22
+SSID0199,M015,TP0111,Krunal Pandya,19,14,135.71,1,DC,DY Patil Stadium,7-Apr-22
+SSID0200,M062,TP0111,Krunal Pandya,25,23,108.69,1,RR,Brabourne,15-May-22
+SSID0201,M045,TP0032,Kuldeep Yadav,16,8,200,1,LSG,Wankhede Stadium,1-May-22
+SSID0202,M009,TP0032,Kuldeep Yadav,14,14,100,1,GT,Maharashtra Cricket Association Stadium,2-Apr-22
+SSID0203,M034,TP0033,Lalit Yadav,37,24,154.16,2,RR,Wankhede Stadium,22-Apr-22
+SSID0204,M002,TP0033,Lalit Yadav,48,38,126.31,2,MI,Brabourne,27-Mar-22
+SSID0205,M064,TP0033,Lalit Yadav,24,21,114.28,1,PK,DY Patil Stadium,16-May-22
+SSID0206,M009,TP0033,Lalit Yadav,25,22,113.63,1,GT,Maharashtra Cricket Association Stadium,2-Apr-22
+SSID0207,M041,TP0033,Lalit Yadav,22,29,75.86,1,KKR,Wankhede Stadium,28-Apr-22
+SSID0208,M011,TP0157,Liam Livingstone,60,32,187.5,5,CSK,Brabourne,3-Apr-22
+SSID0209,M070,TP0157,Liam Livingstone,49,22,222.72,5,SRH,Wankhede Stadium,22-May-22
+SSID0210,M060,TP0157,Liam Livingstone,70,42,166.66,4,RCB,Brabourne,13-May-22
+SSID0211,M028,TP0157,Liam Livingstone,60,33,181.81,4,SRH,DY Patil Stadium,17-Apr-22
+SSID0212,M016,TP0157,Liam Livingstone,64,27,237.03,4,GT,Brabourne,8-Apr-22
+SSID0213,M048,TP0157,Liam Livingstone,30,10,300,3,GT,DY Patil Stadium,3-May-22
+SSID0214,M002,TP0157,Liam Livingstone,19,10,190,2,RCB,DY Patil Stadium,27-Mar-22
+SSID0215,M042,TP0157,Liam Livingstone,18,16,112.5,2,LSG,Maharashtra Cricket Association Stadium,29-Apr-22
+SSID0216,M052,TP0157,Liam Livingstone,22,14,157.14,2,RR,Wankhede Stadium,7-May-22
+SSID0217,M038,TP0157,Liam Livingstone,19,7,271.42,2,CSK,Wankhede Stadium,25-Apr-22
+SSID0218,M008,TP0157,Liam Livingstone,19,16,118.75,1,KKR,Wankhede Stadium,1-Apr-22
+SSID0219,M049,TP0011,Maheesh Theekshana,7,4,175,1,RCB,Maharashtra Cricket Association Stadium,4-May-22
+SSID0220,M049,TP0210,Mahipal Lomror,42,27,155.55,2,CSK,Maharashtra Cricket Association Stadium,4-May-22
+SSID0221,M043,TP0210,Mahipal Lomror,16,8,200,1,GT,Brabourne,30-Apr-22
+SSID0222,M060,TP0210,Mahipal Lomror,6,3,200,1,PK,Brabourne,13-May-22
+SSID0223,M072,TP0113,Manan Vohra,19,11,172.72,2,RCB,Eden Gardens,25-May-22
+SSID0224,M012,TP0114,Manish Pandey,11,10,110,1,SRH,DY Patil Stadium,4-Apr-22
+SSID0225,M037,TP0114,Manish Pandey,22,22,100,1,MI,Wankhede Stadium,24-Apr-22
+SSID0226,M040,TP0227,Marco Jansen,8,5,160,1,GT,Wankhede Stadium,27-Apr-22
+SSID0227,M019,TP0243,Marcus Stoinis,38,17,223.52,4,RR,Wankhede Stadium,10-Apr-22
+SSID0228,M052,TP0243,Marcus Stoinis,28,14,200,3,KKR,Maharashtra Cricket Association Stadium,7-May-22
+SSID0229,M062,TP0243,Marcus Stoinis,27,17,158.82,2,RR,Brabourne,15-May-22
+SSID0230,M045,TP0243,Marcus Stoinis,17,16,106.25,1,DC,Wankhede Stadium,1-May-22
+SSID0231,M031,TP0243,Marcus Stoinis,24,15,160,1,RCB,DY Patil Stadium,19-Apr-22
+SSID0232,M026,TP0243,Marcus Stoinis,10,9,111.11,1,MI,Brabourne,16-Apr-22
+SSID0233,M072,TP0243,Marcus Stoinis,9,9,100,1,RCB,Eden Gardens,25-May-22
+SSID0234,M074,TP0061,Matthew Wade,8,10,80,1,RR,Narendra Modi Stadium,29-May-22
+SSID0235,M067,TP0061,Matthew Wade,16,13,123.07,1,RCB,Wankhede Stadium,19-May-22
+SSID0236,M002,TP0158,Mayank Agarwal,32,24,133.33,2,RCB,DY Patil Stadium,27-Mar-22
+SSID0237,M042,TP0158,Mayank Agarwal,25,17,147.05,2,LSG,Maharashtra Cricket Association Stadium,29-Apr-22
+SSID0238,M023,TP0158,Mayank Agarwal,52,32,162.5,2,MI,Maharashtra Cricket Association Stadium,13-Apr-22
+SSID0239,M058,TP0036,Mitchell Marsh,89,62,143.54,7,RR,DY Patil Stadium,11-May-22
+SSID0240,M045,TP0036,Mitchell Marsh,37,20,185,3,LSG,Wankhede Stadium,1-May-22
+SSID0241,M064,TP0036,Mitchell Marsh,63,48,131.25,3,PK,DY Patil Stadium,16-May-22
+SSID0242,M054,TP0036,Mitchell Marsh,25,20,125,1,CSK,DY Patil Stadium,8-May-22
+SSID0243,M068,TP0242,Moeen Ali,93,57,163.15,3,RR,Brabourne,20-May-22
+SSID0244,M017,TP0242,Moeen Ali,48,35,137.14,2,SRH,DY Patil Stadium,9-Apr-22
+SSID0245,M062,TP0242,Moeen Ali,21,17,123.52,2,GT,Wankhede Stadium,15-May-22
+SSID0246,M007,TP0242,Moeen Ali,35,22,159.09,2,LSG,Brabourne,31-Mar-22
+SSID0247,M049,TP0242,Moeen Ali,34,27,125.92,2,RCB,Maharashtra Cricket Association Stadium,4-May-22
+SSID0248,M042,TP0117,Mohsin Khan,13,6,216.66,1,PK,Maharashtra Cricket Association Stadium,29-Apr-22
+SSID0249,M054,TP0013,MS Dhoni,21,8,262.5,2,DC,DY Patil Stadium,8-May-22
+SSID0250,M059,TP0013,MS Dhoni,36,33,109.09,2,MI,Wankhede Stadium,12-May-22
+SSID0251,M033,TP0013,MS Dhoni,28,13,215.38,1,MI,DY Patil Stadium,21-Apr-22
+SSID0252,M011,TP0013,MS Dhoni,23,28,82.14,1,PK,Brabourne,3-Apr-22
+SSID0253,M068,TP0013,MS Dhoni,26,28,92.85,1,RR,Brabourne,20-May-22
+SSID0254,M038,TP0013,MS Dhoni,12,8,150,1,PK,Wankhede Stadium,25-Apr-22
+SSID0255,M007,TP0013,MS Dhoni,16,6,266.66,1,LSG,Brabourne,31-Mar-22
+SSID0256,M001,TP0013,MS Dhoni,50,38,131.57,1,KKR,Wankhede Stadium,26-Mar-22
+SSID0257,M026,TP0135,Murugan Ashwin,6,2,300,1,LSG,Brabourne,16-Apr-22
+SSID0258,M045,TP0228,Nicholas Pooran,64,33,193.93,6,CSK,Maharashtra Cricket Association Stadium,1-May-22
+SSID0259,M050,TP0228,Nicholas Pooran,62,34,182.35,6,DC,Brabourne,5-May-22
+SSID0260,M065,TP0228,Nicholas Pooran,38,22,172.72,3,MI,Wankhede Stadium,17-May-22
+SSID0261,M012,TP0228,Nicholas Pooran,34,24,141.66,2,LSG,DY Patil Stadium,4-Apr-22
+SSID0262,M021,TP0228,Nicholas Pooran,34,18,188.88,2,GT,DY Patil Stadium,11-Apr-22
+SSID0263,M054,TP0228,Nicholas Pooran,19,14,135.71,1,RCB,Wankhede Stadium,8-May-22
+SSID0264,M028,TP0228,Nicholas Pooran,35,30,116.66,1,PK,DY Patil Stadium,17-Apr-22
+SSID0265,M056,TP0085,Nitish Rana,43,26,165.38,4,MI,DY Patil Stadium,9-May-22
+SSID0266,M041,TP0085,Nitish Rana,57,34,167.64,4,DC,Wankhede Stadium,28-Apr-22
+SSID0267,M019,TP0085,Nitish Rana,30,20,150,3,DC,Brabourne,10-Apr-22
+SSID0268,M061,TP0085,Nitish Rana,26,16,162.5,3,SRH,Maharashtra Cricket Association Stadium,14-May-22
+SSID0269,M025,TP0085,Nitish Rana,54,36,150,2,SRH,Brabourne,15-Apr-22
+SSID0270,M047,TP0085,Nitish Rana,48,37,129.72,2,RR,Wankhede Stadium,2-May-22
+SSID0271,M006,TP0085,Nitish Rana,10,5,200,1,RCB,DY Patil Stadium,30-Mar-22
+SSID0272,M014,TP0085,Nitish Rana,8,7,114.28,1,MI,Maharashtra Cricket Association Stadium,6-Apr-22
+SSID0273,M030,TP0085,Nitish Rana,18,11,163.63,1,RR,Brabourne,18-Apr-22
+SSID0274,M001,TP0085,Nitish Rana,21,17,123.52,1,CSK,Wankhede Stadium,26-Mar-22
+SSID0275,M074,TP0184,Obed McCoy,8,5,160,1,GT,Narendra Modi Stadium,29-May-22
+SSID0276,M002,TP0160,Odean Smith,25,8,312.5,3,RCB,DY Patil Stadium,27-Mar-22
+SSID0277,M008,TP0160,Odean Smith,9,12,75,1,KKR,Wankhede Stadium,1-Apr-22
+SSID0278,M028,TP0160,Odean Smith,13,15,86.66,1,SRH,DY Patil Stadium,17-Apr-22
+SSID0279,M014,TP0086,Pat Cummins,56,15,373.33,6,MI,Maharashtra Cricket Association Stadium,6-Apr-22
+SSID0280,M015,TP0039,Prithvi Shaw,61,34,179.41,2,LSG,DY Patil Stadium,7-Apr-22
+SSID0281,M002,TP0039,Prithvi Shaw,38,24,158.33,2,MI,Brabourne,27-Mar-22
+SSID0282,M019,TP0039,Prithvi Shaw,51,29,175.86,2,KKR,Brabourne,10-Apr-22
+SSID0283,M069,TP0039,Prithvi Shaw,24,23,104.34,1,MI,Wankhede Stadium,21-May-22
+SSID0284,M032,TP0039,Prithvi Shaw,41,20,205,1,PK,Brabourne,20-Apr-22
+SSID0285,M026,TP0039,Prithvi Shaw,16,13,123.07,1,RCB,Wankhede Stadium,16-Apr-22
+SSID0286,M034,TP0039,Prithvi Shaw,37,27,137.03,1,RR,Wankhede Stadium,22-Apr-22
+SSID0287,M065,TP0229,Priyam Garg,42,26,161.53,2,MI,Wankhede Stadium,17-May-22
+SSID0288,M066,TP0118,Quinton De Kock,140,70,200,10,KKR,DY Patil Stadium,18-May-22
+SSID0289,M052,TP0118,Quinton De Kock,50,29,172.41,3,KKR,Maharashtra Cricket Association Stadium,7-May-22
+SSID0290,M042,TP0118,Quinton De Kock,46,37,124.32,2,PK,Maharashtra Cricket Association Stadium,29-Apr-22
+SSID0291,M015,TP0118,Quinton De Kock,80,52,153.84,2,DC,DY Patil Stadium,7-Apr-22
+SSID0292,M019,TP0118,Quinton De Kock,39,32,121.87,1,RR,Wankhede Stadium,10-Apr-22
+SSID0293,M057,TP0118,Quinton De Kock,11,10,110,1,GT,Maharashtra Cricket Association Stadium,10-May-22
+SSID0294,M037,TP0118,Quinton De Kock,10,9,111.11,1,MI,Wankhede Stadium,24-Apr-22
+SSID0295,M026,TP0118,Quinton De Kock,24,13,184.61,1,MI,Brabourne,16-Apr-22
+SSID0296,M072,TP0118,Quinton De Kock,6,5,120,1,RCB,Eden Gardens,25-May-22
+SSID0297,M045,TP0118,Quinton De Kock,23,13,176.92,1,DC,Wankhede Stadium,1-May-22
+SSID0298,M016,TP0163,Rahul Chahar,22,14,157.14,1,GT,Brabourne,8-Apr-22
+SSID0299,M011,TP0163,Rahul Chahar,12,8,150,1,CSK,Brabourne,3-Apr-22
+SSID0300,M032,TP0163,Rahul Chahar,12,12,100,1,DC,Brabourne,20-Apr-22
+SSID0301,M064,TP0163,Rahul Chahar,25,24,104.16,1,DC,DY Patil Stadium,16-May-22
+SSID0302,M040,TP0066,Rahul Tewatia,40,21,190.47,2,SRH,Wankhede Stadium,27-Apr-22
+SSID0303,M043,TP0066,Rahul Tewatia,43,25,172,2,RCB,Brabourne,30-Apr-22
+SSID0304,M004,TP0066,Rahul Tewatia,40,24,166.66,2,LSG,Wankhede Stadium,28-Mar-22
+SSID0305,M016,TP0066,Rahul Tewatia,13,3,433.33,2,PK,Brabourne,8-Apr-22
+SSID0306,M009,TP0066,Rahul Tewatia,14,8,175,1,DC,Maharashtra Cricket Association Stadium,2-Apr-22
+SSID0307,M025,TP0231,Rahul Tripathi,71,37,191.89,6,KKR,Brabourne,15-Apr-22
+SSID0308,M065,TP0231,Rahul Tripathi,76,44,172.72,3,MI,Wankhede Stadium,17-May-22
+SSID0309,M054,TP0231,Rahul Tripathi,58,37,156.75,2,RCB,Wankhede Stadium,8-May-22
+SSID0310,M017,TP0231,Rahul Tripathi,39,15,260,2,CSK,DY Patil Stadium,9-Apr-22
+SSID0311,M012,TP0231,Rahul Tripathi,44,30,146.66,1,LSG,DY Patil Stadium,4-Apr-22
+SSID0312,M035,TP0231,Rahul Tripathi,7,3,233.33,1,RCB,Brabourne,23-Apr-22
+SSID0313,M028,TP0231,Rahul Tripathi,34,22,154.54,1,PK,DY Patil Stadium,17-Apr-22
+SSID0314,M021,TP0231,Rahul Tripathi,17,11,154.54,1,GT,DY Patil Stadium,11-Apr-22
+SSID0315,M050,TP0231,Rahul Tripathi,22,18,122.22,1,DC,Brabourne,5-May-22
+SSID0316,M040,TP0231,Rahul Tripathi,16,10,160,1,GT,Wankhede Stadium,27-Apr-22
+SSID0317,M070,TP0231,Rahul Tripathi,20,18,111.11,1,PK,Wankhede Stadium,22-May-22
+SSID0318,M072,TP0203,Finn Allen,112,54,207.4,7,LSG,Eden Gardens,25-May-22
+SSID0319,M073,TP0203,Finn Allen,58,42,138.09,3,RR,Narendra Modi Stadium,27-May-22
+SSID0320,M054,TP0203,Finn Allen,48,38,126.31,2,SRH,Wankhede Stadium,8-May-22
+SSID0321,M043,TP0203,Finn Allen,52,32,162.5,2,GT,Brabourne,30-Apr-22
+SSID0322,M060,TP0203,Finn Allen,26,21,123.8,2,PK,Brabourne,13-May-22
+SSID0323,M049,TP0203,Finn Allen,21,15,140,1,CSK,Maharashtra Cricket Association Stadium,4-May-22
+SSID0324,M039,TP0203,Finn Allen,16,16,100,1,RR,Maharashtra Cricket Association Stadium,26-Apr-22
+SSID0325,M065,TP0138,Ramandeep Singh,14,6,233.33,1,SRH,Wankhede Stadium,17-May-22
+SSID0326,M040,TP0067,Rashid Khan,31,11,281.81,4,SRH,Wankhede Stadium,27-Apr-22
+SSID0327,M028,TP0067,Rashid Khan,40,21,190.47,3,CSK,Maharashtra Cricket Association Stadium,17-Apr-22
+SSID0328,M067,TP0067,Rashid Khan,19,6,316.66,2,RCB,Wankhede Stadium,19-May-22
+SSID0329,M068,TP0186,R Ashwin,40,23,173.91,3,CSK,Brabourne,20-May-22
+SSID0330,M058,TP0186,R Ashwin,50,38,131.57,2,DC,DY Patil Stadium,11-May-22
+SSID0331,M019,TP0186,R Ashwin,28,23,121.73,2,LSG,Wankhede Stadium,10-Apr-22
+SSID0332,M043,TP0186,R Ashwin,21,9,233.33,1,MI,DY Patil Stadium,30-Apr-22
+SSID0333,M024,TP0186,R Ashwin,8,8,100,1,GT,DY Patil Stadium,14-Apr-22
+SSID0334,M028,TP0018,Ravindra Jadeja,22,12,183.33,2,GT,Maharashtra Cricket Association Stadium,17-Apr-22
+SSID0335,M001,TP0018,Ravindra Jadeja,26,28,92.85,1,KKR,Wankhede Stadium,26-Mar-22
+SSID0336,M017,TP0018,Ravindra Jadeja,23,15,153.33,1,SRH,DY Patil Stadium,9-Apr-22
+SSID0337,M038,TP0018,Ravindra Jadeja,21,16,131.25,1,PK,Wankhede Stadium,25-Apr-22
+SSID0338,M066,TP0090,Rinku Singh,40,15,266.66,4,LSG,DY Patil Stadium,18-May-22
+SSID0339,M035,TP0090,Rinku Singh,35,28,125,1,GT,DY Patil Stadium,23-Apr-22
+SSID0340,M047,TP0090,Rinku Singh,42,23,182.6,1,RR,Wankhede Stadium,2-May-22
+SSID0341,M056,TP0090,Rinku Singh,23,19,121.05,1,MI,DY Patil Stadium,9-May-22
+SSID0342,M054,TP0040,Ripal Patel,6,3,200,1,CSK,DY Patil Stadium,8-May-22
+SSID0343,M050,TP0041,Rishabh Pant,26,16,162.5,3,SRH,Brabourne,5-May-22
+SSID0344,M019,TP0041,Rishabh Pant,27,14,192.85,2,KKR,Brabourne,10-Apr-22
+SSID0345,M026,TP0041,Rishabh Pant,34,17,200,2,RCB,Wankhede Stadium,16-Apr-22
+SSID0346,M034,TP0041,Rishabh Pant,44,24,183.33,2,RR,Wankhede Stadium,22-Apr-22
+SSID0347,M058,TP0041,Rishabh Pant,13,4,325,2,RR,DY Patil Stadium,11-May-22
+SSID0348,M015,TP0041,Rishabh Pant,39,36,108.33,2,LSG,DY Patil Stadium,7-Apr-22
+SSID0349,M069,TP0041,Rishabh Pant,39,33,118.18,1,MI,Wankhede Stadium,21-May-22
+SSID0350,M045,TP0041,Rishabh Pant,44,30,146.66,1,LSG,Wankhede Stadium,1-May-22
+SSID0351,M064,TP0041,Rishabh Pant,7,3,233.33,1,PK,DY Patil Stadium,16-May-22
+SSID0352,M060,TP0165,Rishi Dhawan,7,3,233.33,1,RCB,Brabourne,13-May-22
+SSID0353,M042,TP0165,Rishi Dhawan,21,22,95.45,1,LSG,Maharashtra Cricket Association Stadium,29-Apr-22
+SSID0354,M039,TP0188,Riyan Parag,56,31,180.64,4,RCB,Maharashtra Cricket Association Stadium,26-Apr-22
+SSID0355,M047,TP0188,Riyan Parag,19,12,158.33,2,KKR,Wankhede Stadium,2-May-22
+SSID0356,M019,TP0188,Riyan Parag,8,4,200,1,LSG,Wankhede Stadium,10-Apr-22
+SSID0357,M058,TP0188,Riyan Parag,9,5,180,1,DC,DY Patil Stadium,11-May-22
+SSID0358,M024,TP0188,Riyan Parag,18,16,112.5,1,GT,DY Patil Stadium,14-Apr-22
+SSID0359,M062,TP0188,Riyan Parag,19,16,118.75,1,LSG,Brabourne,15-May-22
+SSID0360,M022,TP0019,Robin Uthappa,88,50,176,9,RCB,DY Patil Stadium,12-Apr-22
+SSID0361,M001,TP0019,Robin Uthappa,28,21,133.33,2,KKR,Wankhede Stadium,26-Mar-22
+SSID0362,M033,TP0019,Robin Uthappa,30,25,120,2,MI,DY Patil Stadium,21-Apr-22
+SSID0363,M007,TP0019,Robin Uthappa,50,27,185.18,1,LSG,Brabourne,31-Mar-22
+SSID0364,M065,TP0140,Rohit Sharma,48,36,133.33,4,SRH,Wankhede Stadium,17-May-22
+SSID0365,M023,TP0140,Rohit Sharma,28,17,164.7,2,PK,Maharashtra Cricket Association Stadium,13-Apr-22
+SSID0366,M051,TP0140,Rohit Sharma,43,28,153.57,2,GT,Brabourne,6-May-22
+SSID0367,M002,TP0140,Rohit Sharma,41,32,128.12,2,DC,Brabourne,27-Mar-22
+SSID0368,M017,TP0140,Rohit Sharma,26,15,173.33,1,RCB,Maharashtra Cricket Association Stadium,9-Apr-22
+SSID0369,M037,TP0140,Rohit Sharma,39,31,125.8,1,LSG,Wankhede Stadium,24-Apr-22
+SSID0370,M009,TP0140,Rohit Sharma,10,5,200,1,RR,DY Patil Stadium,2-Apr-22
+SSID0371,M005,TP0232,Romario Shepherd,24,18,133.33,2,RR,Maharashtra Cricket Association Stadium,29-Mar-22
+SSID0372,M070,TP0232,Romario Shepherd,26,15,173.33,2,PK,Wankhede Stadium,22-May-22
+SSID0373,M012,TP0232,Romario Shepherd,8,8,100,1,LSG,DY Patil Stadium,4-Apr-22
+SSID0374,M050,TP0042,Rovman Powell,67,35,191.42,6,SRH,Brabourne,5-May-22
+SSID0375,M034,TP0042,Rovman Powell,36,15,240,5,RR,Wankhede Stadium,22-Apr-22
+SSID0376,M069,TP0042,Rovman Powell,43,34,126.47,4,MI,Wankhede Stadium,21-May-22
+SSID0377,M041,TP0042,Rovman Powell,33,16,206.25,3,KKR,Wankhede Stadium,28-Apr-22
+SSID0378,M045,TP0042,Rovman Powell,35,21,166.66,2,LSG,Wankhede Stadium,1-May-22
+SSID0379,M009,TP0042,Rovman Powell,20,12,166.66,1,GT,Maharashtra Cricket Association Stadium,2-Apr-22
+SSID0380,M019,TP0042,Rovman Powell,8,6,133.33,1,KKR,Brabourne,10-Apr-22
+SSID0381,M045,TP0020,Ruturaj Gaikwad,99,57,173.68,6,SRH,Maharashtra Cricket Association Stadium,1-May-22
+SSID0382,M028,TP0020,Ruturaj Gaikwad,73,48,152.08,5,GT,Maharashtra Cricket Association Stadium,17-Apr-22
+SSID0383,M054,TP0020,Ruturaj Gaikwad,41,33,124.24,1,DC,DY Patil Stadium,8-May-22
+SSID0384,M062,TP0020,Ruturaj Gaikwad,53,49,108.16,1,GT,Wankhede Stadium,15-May-22
+SSID0385,M049,TP0020,Ruturaj Gaikwad,28,23,121.73,1,RCB,Maharashtra Cricket Association Stadium,4-May-22
+SSID0386,M048,TP0068,Sai Sudarshan,65,50,130,1,PK,DY Patil Stadium,3-May-22
+SSID0387,M016,TP0068,Sai Sudarshan,35,30,116.66,1,PK,Brabourne,8-Apr-22
+SSID0388,M051,TP0068,Sai Sudarshan,14,11,127.27,1,MI,Brabourne,6-May-22
+SSID0389,M066,TP0091,Sam Billings,36,24,150,3,LSG,DY Patil Stadium,18-May-22
+SSID0390,M014,TP0091,Sam Billings,17,12,141.66,2,MI,Maharashtra Cricket Association Stadium,6-Apr-22
+SSID0391,M061,TP0091,Sam Billings,34,29,117.24,1,SRH,Maharashtra Cricket Association Stadium,14-May-22
+SSID0392,M008,TP0091,Sam Billings,24,23,104.34,1,PK,Wankhede Stadium,1-Apr-22
+SSID0393,M019,TP0091,Sam Billings,15,9,166.66,1,DC,Brabourne,10-Apr-22
+SSID0394,M006,TP0091,Sam Billings,14,15,93.33,1,RCB,DY Patil Stadium,30-Mar-22
+SSID0395,M001,TP0091,Sam Billings,25,22,113.63,1,CSK,Wankhede Stadium,26-Mar-22
+SSID0396,M005,TP0189,Sanju Samson,55,27,203.7,5,SRH,Maharashtra Cricket Association Stadium,29-Mar-22
+SSID0397,M039,TP0189,Sanju Samson,27,21,128.57,3,RCB,Maharashtra Cricket Association Stadium,26-Apr-22
+SSID0398,M009,TP0189,Sanju Samson,30,21,142.85,3,MI,DY Patil Stadium,2-Apr-22
+SSID0399,M034,TP0189,Sanju Samson,46,19,242.1,3,DC,Wankhede Stadium,22-Apr-22
+SSID0400,M071,TP0189,Sanju Samson,47,26,180.76,3,GT,Eden Gardens,24-May-22
+SSID0401,M030,TP0189,Sanju Samson,38,19,200,2,KKR,Brabourne,18-Apr-22
+SSID0402,M073,TP0189,Sanju Samson,23,21,109.52,2,RCB,Narendra Modi Stadium,27-May-22
+SSID0403,M043,TP0189,Sanju Samson,16,7,228.57,2,MI,DY Patil Stadium,30-Apr-22
+SSID0404,M024,TP0189,Sanju Samson,11,11,100,1,GT,DY Patil Stadium,14-Apr-22
+SSID0405,M013,TP0189,Sanju Samson,8,8,100,1,RCB,Wankhede Stadium,5-Apr-22
+SSID0406,M047,TP0189,Sanju Samson,54,49,110.2,1,KKR,Wankhede Stadium,2-May-22
+SSID0407,M064,TP0043,Sarfaraz Khan,32,16,200,1,PK,DY Patil Stadium,16-May-22
+SSID0408,M069,TP0043,Sarfaraz Khan,10,7,142.85,1,MI,Wankhede Stadium,21-May-22
+SSID0409,M050,TP0234,Sean Abbott,7,5,140,1,DC,Brabourne,5-May-22
+SSID0410,M013,TP0212,Shahbaz Ahamad,45,26,173.07,3,RR,Wankhede Stadium,5-Apr-22
+SSID0411,M006,TP0212,Shahbaz Ahamad,27,20,135,3,KKR,DY Patil Stadium,30-Mar-22
+SSID0412,M039,TP0212,Shahbaz Ahamad,17,27,62.96,1,RR,Maharashtra Cricket Association Stadium,26-Apr-22
+SSID0413,M073,TP0212,Shahbaz Ahamad,12,8,150,1,RR,Narendra Modi Stadium,27-May-22
+SSID0414,M026,TP0212,Shahbaz Ahamad,32,21,152.38,1,DC,Wankhede Stadium,16-Apr-22
+SSID0415,M028,TP0167,Shahrukh Khan,26,28,92.85,2,SRH,DY Patil Stadium,17-Apr-22
+SSID0416,M002,TP0167,Shahrukh Khan,24,20,120,2,RCB,DY Patil Stadium,27-Mar-22
+SSID0417,M023,TP0167,Shahrukh Khan,15,6,250,2,MI,Maharashtra Cricket Association Stadium,13-Apr-22
+SSID0418,M016,TP0167,Shahrukh Khan,15,8,187.5,2,GT,Brabourne,8-Apr-22
+SSID0419,M070,TP0167,Shahrukh Khan,19,10,190,1,SRH,Wankhede Stadium,22-May-22
+SSID0420,M019,TP0044,Shardul Thakur,29,11,263.63,3,KKR,Brabourne,10-Apr-22
+SSID0421,M026,TP0044,Shardul Thakur,17,9,188.88,2,RCB,Wankhede Stadium,16-Apr-22
+SSID0422,M054,TP0044,Shardul Thakur,24,19,126.31,1,CSK,DY Patil Stadium,8-May-22
+SSID0423,M034,TP0044,Shardul Thakur,10,7,142.85,1,RR,Wankhede Stadium,22-Apr-22
+SSID0424,M040,TP0235,Shashank Singh,25,6,416.66,3,GT,Wankhede Stadium,27-Apr-22
+SSID0425,M054,TP0235,Shashank Singh,8,9,88.88,1,RCB,Wankhede Stadium,8-May-22
+SSID0426,M025,TP0092,Sheldon Jackson,7,7,100,1,SRH,Brabourne,15-Apr-22
+SSID0427,M006,TP0213,Sherfane Rutherford,28,40,70,1,KKR,DY Patil Stadium,30-Mar-22
+SSID0428,M023,TP0168,Shikhar Dhawan,70,50,140,3,MI,Maharashtra Cricket Association Stadium,13-Apr-22
+SSID0429,M070,TP0168,Shikhar Dhawan,39,32,121.87,2,SRH,Wankhede Stadium,22-May-22
+SSID0430,M038,TP0168,Shikhar Dhawan,88,59,149.15,2,CSK,Wankhede Stadium,25-Apr-22
+SSID0431,M048,TP0168,Shikhar Dhawan,62,53,116.98,1,GT,DY Patil Stadium,3-May-22
+SSID0432,M002,TP0168,Shikhar Dhawan,43,29,148.27,1,RCB,DY Patil Stadium,27-Mar-22
+SSID0433,M060,TP0168,Shikhar Dhawan,21,15,140,1,RCB,Brabourne,13-May-22
+SSID0434,M008,TP0168,Shikhar Dhawan,16,15,106.66,1,KKR,Wankhede Stadium,1-Apr-22
+SSID0435,M011,TP0168,Shikhar Dhawan,33,24,137.5,1,CSK,Brabourne,3-Apr-22
+SSID0436,M019,TP0190,Shimron Hetmyer,59,36,163.88,6,LSG,Wankhede Stadium,10-Apr-22
+SSID0437,M009,TP0190,Shimron Hetmyer,35,14,250,3,MI,DY Patil Stadium,2-Apr-22
+SSID0438,M005,TP0190,Shimron Hetmyer,32,13,246.15,3,SRH,Maharashtra Cricket Association Stadium,29-Mar-22
+SSID0439,M030,TP0190,Shimron Hetmyer,26,13,200,2,KKR,Brabourne,18-Apr-22
+SSID0440,M052,TP0190,Shimron Hetmyer,31,16,193.75,2,PK,Wankhede Stadium,7-May-22
+SSID0441,M047,TP0190,Shimron Hetmyer,27,13,207.69,2,KKR,Wankhede Stadium,2-May-22
+SSID0442,M013,TP0190,Shimron Hetmyer,42,31,135.48,2,RCB,Wankhede Stadium,5-Apr-22
+SSID0443,M024,TP0190,Shimron Hetmyer,29,17,170.58,1,GT,DY Patil Stadium,14-Apr-22
+SSID0444,M022,TP0021,Shivam Dube,95,46,206.52,8,RCB,DY Patil Stadium,12-Apr-22
+SSID0445,M011,TP0021,Shivam Dube,57,30,190,3,PK,Brabourne,3-Apr-22
+SSID0446,M054,TP0021,Shivam Dube,32,19,168.42,2,DC,DY Patil Stadium,8-May-22
+SSID0447,M007,TP0021,Shivam Dube,49,30,163.33,2,LSG,Brabourne,31-Mar-22
+SSID0448,M033,TP0021,Shivam Dube,13,14,92.85,1,MI,DY Patil Stadium,21-Apr-22
+SSID0449,M030,TP0094,Shreyas Iyer,85,51,166.66,4,RR,Brabourne,18-Apr-22
+SSID0450,M066,TP0094,Shreyas Iyer,50,29,172.41,3,LSG,DY Patil Stadium,18-May-22
+SSID0451,M019,TP0094,Shreyas Iyer,54,33,163.63,2,DC,Brabourne,10-Apr-22
+SSID0452,M047,TP0094,Shreyas Iyer,34,32,106.25,1,RR,Wankhede Stadium,2-May-22
+SSID0453,M035,TP0094,Shreyas Iyer,12,15,80,1,GT,DY Patil Stadium,23-Apr-22
+SSID0454,M009,TP0069,Shubman Gill,84,46,182.6,4,DC,Maharashtra Cricket Association Stadium,2-Apr-22
+SSID0455,M051,TP0069,Shubman Gill,52,36,144.44,2,MI,Brabourne,6-May-22
+SSID0456,M016,TP0069,Shubman Gill,96,59,162.71,1,PK,Brabourne,8-Apr-22
+SSID0457,M040,TP0069,Shubman Gill,22,24,91.66,1,SRH,Wankhede Stadium,27-Apr-22
+SSID0458,M071,TP0069,Shubman Gill,35,21,166.66,1,RR,Eden Gardens,24-May-22
+SSID0459,M043,TP0069,Shubman Gill,31,28,110.71,1,RCB,Brabourne,30-Apr-22
+SSID0460,M074,TP0069,Shubman Gill,45,43,104.65,1,RR,Narendra Modi Stadium,29-May-22
+SSID0461,M066,TP0095,Sunil Narine,21,7,300,3,LSG,DY Patil Stadium,18-May-22
+SSID0462,M025,TP0095,Sunil Narine,6,2,300,1,SRH,Brabourne,15-Apr-22
+SSID0463,M052,TP0095,Sunil Narine,22,12,183.33,1,LSG,Maharashtra Cricket Association Stadium,7-May-22
+SSID0464,M006,TP0095,Sunil Narine,12,8,150,1,RCB,DY Patil Stadium,30-Mar-22
+SSID0465,M017,TP0142,Suryakumar Yadav,68,37,183.78,6,RCB,Maharashtra Cricket Association Stadium,9-Apr-22
+SSID0466,M023,TP0142,Suryakumar Yadav,43,30,143.33,4,PK,Maharashtra Cricket Association Stadium,13-Apr-22
+SSID0467,M014,TP0142,Suryakumar Yadav,52,36,144.44,2,KKR,Maharashtra Cricket Association Stadium,6-Apr-22
+SSID0468,M043,TP0142,Suryakumar Yadav,51,39,130.76,2,RR,DY Patil Stadium,30-Apr-22
+SSID0469,M051,TP0142,Suryakumar Yadav,13,11,118.18,1,GT,Brabourne,6-May-22
+SSID0470,M033,TP0142,Suryakumar Yadav,32,21,152.38,1,CSK,DY Patil Stadium,21-Apr-22
+SSID0471,M031,TP0215,Suyash Prabhudessai,10,9,111.11,1,LSG,DY Patil Stadium,19-Apr-22
+SSID0472,M022,TP0215,Suyash Prabhudessai,34,18,188.88,1,CSK,DY Patil Stadium,12-Apr-22
+SSID0473,M009,TP0143,Tilak Varma,61,33,184.84,5,RR,DY Patil Stadium,2-Apr-22
+SSID0474,M014,TP0143,Tilak Varma,38,27,140.74,2,KKR,Maharashtra Cricket Association Stadium,6-Apr-22
+SSID0475,M037,TP0143,Tilak Varma,38,27,140.74,2,LSG,Wankhede Stadium,24-Apr-22
+SSID0476,M033,TP0143,Tilak Varma,51,43,118.6,2,CSK,DY Patil Stadium,21-Apr-22
+SSID0477,M023,TP0143,Tilak Varma,36,20,180,2,PK,Maharashtra Cricket Association Stadium,13-Apr-22
+SSID0478,M043,TP0143,Tilak Varma,35,30,116.66,2,RR,DY Patil Stadium,30-Apr-22
+SSID0479,M069,TP0143,Tilak Varma,21,17,123.52,1,DC,Wankhede Stadium,21-May-22
+SSID0480,M065,TP0144,Tim David,46,18,255.55,4,SRH,Wankhede Stadium,17-May-22
+SSID0481,M069,TP0144,Tim David,34,11,309.09,4,DC,Wankhede Stadium,21-May-22
+SSID0482,M051,TP0144,Tim David,44,21,209.52,4,GT,Brabourne,6-May-22
+SSID0483,M059,TP0144,Tim David,16,7,228.57,2,CSK,Wankhede Stadium,12-May-22
+SSID0484,M002,TP0144,Tim David,12,8,150,1,DC,Brabourne,27-Mar-22
+SSID0485,M043,TP0144,Tim David,20,9,222.22,1,RR,DY Patil Stadium,30-Apr-22
+SSID0486,M074,TP0193,Trent Boult,11,7,157.14,1,GT,Narendra Modi Stadium,29-May-22
+SSID0487,M030,TP0097,Umesh Yadav,21,9,233.33,2,RR,Brabourne,18-Apr-22
+SSID0488,M035,TP0097,Umesh Yadav,15,15,100,1,GT,DY Patil Stadium,23-Apr-22
+SSID0489,M006,TP0097,Umesh Yadav,18,12,150,1,RCB,DY Patil Stadium,30-Mar-22
+SSID0490,M056,TP0099,Venkatesh Iyer,43,24,179.16,4,MI,DY Patil Stadium,9-May-22
+SSID0491,M019,TP0099,Venkatesh Iyer,18,8,225,2,DC,Brabourne,10-Apr-22
+SSID0492,M014,TP0099,Venkatesh Iyer,50,41,121.95,1,MI,Maharashtra Cricket Association Stadium,6-Apr-22
+SSID0493,M067,TP0216,Virat Kohli,73,54,135.18,2,GT,Wankhede Stadium,19-May-22
+SSID0494,M002,TP0216,Virat Kohli,41,29,141.37,2,PK,DY Patil Stadium,27-Mar-22
+SSID0495,M043,TP0216,Virat Kohli,58,53,109.43,1,GT,Brabourne,30-Apr-22
+SSID0496,M060,TP0216,Virat Kohli,20,14,142.85,1,PK,Brabourne,13-May-22
+SSID0497,M049,TP0216,Virat Kohli,30,33,90.9,1,CSK,Maharashtra Cricket Association Stadium,4-May-22
+SSID0498,M073,TP0216,Virat Kohli,7,8,87.5,1,RR,Narendra Modi Stadium,27-May-22
+SSID0499,M022,TP0217,Wanindu Hasaranga,7,3,233.33,1,CSK,DY Patil Stadium,12-Apr-22
+SSID0500,M005,TP0240,Washington Sundar,40,14,285.71,2,RR,Maharashtra Cricket Association Stadium,29-Mar-22
+SSID0501,M070,TP0240,Washington Sundar,25,19,131.57,1,PK,Wankhede Stadium,22-May-22
+SSID0502,M051,TP0072,Wriddhiman Saha,55,40,137.5,2,MI,Brabourne,6-May-22
+SSID0503,M067,TP0072,Wriddhiman Saha,31,22,140.9,1,RCB,Wankhede Stadium,19-May-22
+SSID0504,M035,TP0072,Wriddhiman Saha,25,25,100,1,KKR,DY Patil Stadium,23-Apr-22
+SSID0505,M048,TP0072,Wriddhiman Saha,21,17,123.52,1,PK,DY Patil Stadium,3-May-22
+SSID0506,M040,TP0072,Wriddhiman Saha,68,38,178.94,1,SRH,Wankhede Stadium,27-Apr-22
+SSID0507,M062,TP0072,Wriddhiman Saha,67,57,117.54,1,CSK,Wankhede Stadium,15-May-22
+SSID0508,M073,TP0194,Yashasvi Jaiswal,21,13,161.53,2,RCB,Narendra Modi Stadium,27-May-22
+SSID0509,M052,TP0194,Yashasvi Jaiswal,68,41,165.85,2,PK,Wankhede Stadium,7-May-22
+SSID0510,M074,TP0194,Yashasvi Jaiswal,22,16,137.5,2,GT,Narendra Modi Stadium,29-May-22
+SSID0511,M062,TP0194,Yashasvi Jaiswal,41,29,141.37,1,LSG,Brabourne,15-May-22
+SSID0512,M068,TP0194,Yashasvi Jaiswal,59,44,134.09,1,CSK,Brabourne,20-May-22
+SSID0513,M058,TP0194,Yashasvi Jaiswal,19,19,100,1,DC,DY Patil Stadium,11-May-22
+SSID0514,M005,TP0194,Yashasvi Jaiswal,20,16,125,1,SRH,Maharashtra Cricket Association Stadium,29-Mar-22

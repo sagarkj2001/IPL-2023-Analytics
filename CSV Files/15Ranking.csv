@@ -1,0 +1,11 @@
+﻿RankID,TeamID,TeamName,ShortName,MatchesPlayed,MatchesWon,MatchesLost,Points,NetRunRate
+R001,T001,Chennai Super Kings,CSK,14,4,10,8,-0.203
+R002,T002,Delhi Capitals,DC,14,7,7,14,0.204
+R003,T003,Gujarat Titans,GT,14,10,4,20,0.316
+R004,T004,Kolkata Knight Riders,KKR,14,6,8,12,0.146
+R005,T005,Lucknow Super Giants,LSG,14,9,5,18,0.251
+R006,T006,Mumbai Indians,MI,14,4,10,8,-0.506
+R007,T007,Punjab Kings,PK,14,7,7,14,0.126
+R008,T008,Rajasthan Royals,RR,14,9,5,18,0.298
+R009,T009,Royal Challengers Bangalore,RCB,14,8,6,16,-0.253
+R010,T010,Sunrisers Hyderabad,SRH,14,6,8,12,-0.379

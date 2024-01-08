@@ -1,0 +1,623 @@
+﻿PlayerID,FirstName,LastName,FullName,Country,Age,Specialism,BattingStyle,BowlingStyle,PricePaid,Bid,Team
+P0001,Aaqib,Khan,Aaqib Khan,India,18,Bowler,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0002,Aaron,Finch,Aaron Finch,Australia,35,Batsman,RHB,Left Arm Slow Orthodox,15000000,Sold,KKR
+P0003,Abdul,Samad,Abdul Samad,India,20,All Rounder,RHB,Right Arm Leg Spin,40000000,Sold,SRH
+P0004,Abhijeet,Saket,Abhijeet Saket,India,26,Bowler,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0005,Abhijeet,Tomar,Abhijeet Tomar,India,27,Batsman,RHB,Right Arm Off Spin,4000000,Sold,KKR
+P0006,Abhimanyu,Easwaran,Abhimanyu Easwaran,India,26,Batsman,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0007,Abhinav,Sadarangani,Abhinav Sadarangani,India,27,Batsman,RHB,Right Arm Leg Spin,26000000,Sold,GT
+P0008,Abhishek,Raut,Abhishek Raut,India,35,All Rounder,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0009,Abhishek,Sharma,Abhishek Sharma,India,21,All Rounder,LHB,Left Arm Slow Orthodox,65000000,Sold,SRH
+P0010,Abid,Mushtaq,Abid Mushtaq,India,25,All Rounder,LHB,Left Arm Slow Orthodox,0,UnSold,NotSold
+P0011,Adam,Milne,Adam Milne,New Zealand,29,Bowler,RHB,Right Arm Fast,19000000,Sold,CSK
+P0012,Adam,Zampa,Adam Zampa,Australia,29,Bowler,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0013,Adil,Rashid,Adil Rashid,England,34,Bowler,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0014,Adithya,Ashok,Adithya Ashok,New Zealand,19,Bowler,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0015,Aditya,Tare,Aditya Tare,India,34,Wicket Keeper,RHB,None,0,UnSold,NotSold
+P0016,Aditya,Thakare,Aditya Thakare,India,23,Bowler,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0017,Aidan,Cahill,Aidan Cahill,Australia,19,All Rounder,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0018,Aiden,Markram,Aiden Markram,South Africa,27,Batsman,RHB,Right Arm Off Spin,26000000,Sold,SRH
+P0019,Ajay,Mandal,Ajay Mandal,India,26,All Rounder,LHB,Left Arm Slow Unorthodox,0,UnSold,NotSold
+P0020,Ajay Dev,Goud,Ajay Dev Goud,India,22,All Rounder,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0021,Ajinkya,Rahane,Ajinkya Rahane,India,33,Batsman,RHB,None,10000000,Sold,KKR
+P0022,Akash,Choudhary,Akash Choudhary,India,22,Bowler,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0023,Akash,Deep,Akash Deep,India,25,Bowler,RHB,Right Arm Fast Medium,2000000,Sold,RCB
+P0024,Akash,Madhwal,Akash Madhwal,India,28,Bowler,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0025,Akash,Singh,Akash Singh,India,19,Bowler,RHB,Left Arm Fast,0,UnSold,NotSold
+P0026,Akeal,Hosein,Akeal Hosein,West Indies,28,All Rounder,LHB,Left Arm Slow Orthodox,0,UnSold,NotSold
+P0027,Akila,Dhananjaya,Akila Dhananjaya,Sri Lanka,28,Bowler,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0028,Akshay,Karnewar,Akshay Karnewar,India,29,All Rounder,LHB,Left Arm Slow Orthodox,0,UnSold,NotSold
+P0029,Akshay,Wakhare,Akshay Wakhare,India,36,Bowler,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0030,Akshdeep,Nath,Akshdeep Nath,India,28,Wicket Keeper,RHB,None,0,UnSold,NotSold
+P0031,Alex,Hales,Alex Hales,England,33,Batsman,RHB,None,15000000,Sold,KKR
+P0032,Alex,Ross,Alex Ross,Australia,29,Batsman,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0033,Ali,Khan,Ali Khan,USA,31,Bowler,RHB,Right Arm Fast,0,UnSold,NotSold
+P0034,Alzarri,Joseph,Alzarri Joseph,West Indies,25,Bowler,RHB,Right Arm Fast,24000000,Sold,GT
+P0035,Aman,Khan,Aman Khan,India,25,All Rounder,RHB,Right Arm Fast Medium,2000000,Sold,KKR
+P0036,Amandeep,Khare,Amandeep Khare,India,24,Batsman,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0037,Ambati,Rayudu,Ambati Rayudu,India,36,Wicket Keeper,RHB,None,67500000,Sold,CSK
+P0038,Amit,Ali,Amit Ali,India,19,All Rounder,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0039,Amit,Mishra,Amit Mishra,India,30,Bowler,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0040,Amit,Yadav,Amit Yadav,India,32,All Rounder,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0041,Anaru,Kitchen,Anaru Kitchen,New Zealand,38,All Rounder,RHB,Left Arm Slow Orthodox,0,UnSold,NotSold
+P0042,Andile,Phehlukwayo,Andile Phehlukwayo,South Africa,26,All Rounder,LHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0043,Andre,Fletcher,Andre Fletcher,West Indies,34,Wicket Keeper,RHB,None,0,UnSold,NotSold
+P0044,Andre,Russell,Andre Russell,West Indies,33,All Rounder,RHB,Right Arm Fast,120000000,Sold,KKR
+P0045,Andrew,Tye,Andrew Tye,Australia,35,Bowler,RHB,Right Arm Fast Medium,10000000,Sold,LSG
+P0046,Aneeshwar,Gautam,Aneeshwar Gautam,India,19,All Rounder,LHB,Left Arm Slow Orthodox,2000000,Sold,RCB
+P0047,Aniket,Choudhary,Aniket Choudhary,India,32,Bowler,RHB,Left Arm Fast Medium,0,UnSold,NotSold
+P0048,Anirudha,Joshi,Anirudha Joshi,India,34,All Rounder,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0049,Ankit Singh,Rajpoot,Ankit Singh Rajpoot,India,28,Bowler,RHB,Right Arm Fast Medium,5000000,Sold,LSG
+P0050,Ankush,Bains,Ankush Bains,India,26,Wicket Keeper,RHB,None,0,UnSold,NotSold
+P0051,Anmolpreet,Singh,Anmolpreet Singh,India,24,Batsman,RHB,Right Arm Off Spin,2000000,Sold,MI
+P0052,Anrich,Nortje,Anrich Nortje,South Africa,28,Bowler,RHB,Right Arm Fast,65000000,Sold,DC
+P0053,Ansh,Patel,Ansh Patel,India,20,All Rounder,RHB,Left Arm Slow Unorthodox,2000000,Sold,PK
+P0054,Anuj,Raj,Anuj Raj,India,21,Bowler,RHB,Left Arm Fast Medium,0,UnSold,NotSold
+P0055,Anuj,Rawat,Anuj Rawat,India,22,Wicket Keeper,LHB,None,34000000,Sold,RCB
+P0056,Anukul,Roy,Anukul Roy,India,23,All Rounder,LHB,Left Arm Slow Orthodox,2000000,Sold,KKR
+P0057,Anunay,Singh,Anunay Singh,India,29,All Rounder,RHB,Right Arm Fast Medium,2000000,Sold,RR
+P0058,Apoorv,Wankhade,Apoorv Wankhade,India,30,Batsman,RHB,Right Arm Medium,0,UnSold,NotSold
+P0059,Arjit,Gupta,Arjit Gupta,India,32,All Rounder,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0060,Arjun,Tendulkar,Arjun Tendulkar,India,22,All Rounder,LHB,Left Arm Fast Medium,3000000,Sold,MI
+P0061,Arpit,Guleria,Arpit Guleria,India,24,Bowler,RHB,Right Arm Fast,0,UnSold,NotSold
+P0062,Arshdeep,Singh,Arshdeep Singh,India,23,Bowler,LHB,Left Arm Fast Medium,40000000,Sold,PK
+P0063,Arun,Chaprana,Arun Chaprana,India,28,All Rounder,RHB,Right Arm Medium,0,UnSold,NotSold
+P0064,Arun,Karthick,Arun Karthick,India,36,Wicket Keeper,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0065,Aryan,Juyal,Aryan Juyal,India,20,Wicket Keeper,RHB,None,2000000,Sold,MI
+P0066,Arzan,Nagwaswalla,Arzan Nagwaswalla,India,24,Bowler,RHB,Left Arm Fast Medium,0,UnSold,NotSold
+P0067,Ashok,Sharma,Ashok Sharma,India,19,Bowler,RHB,Right Arm Fast Medium,5500000,Sold,KKR
+P0068,Ashton,Agar,Ashton Agar,Australia,28,All Rounder,LHB,Left Arm Slow Orthodox,0,UnSold,NotSold
+P0069,Ashutosh,Sharma,Ashutosh Sharma,India,23,All Rounder,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0070,Ashwin,Hebbar,Ashwin Hebbar,India,26,Batsman,RHB,Right Arm Medium,2000000,Sold,DC
+P0071,Atharva,Ankolekar,Atharva Ankolekar,India,21,All Rounder,LHB,Left Arm Slow Orthodox,0,UnSold,NotSold
+P0072,Atharva,Taide,Atharva Taide,India,21,All Rounder,LHB,Left Arm Slow Orthodox,2000000,Sold,PK
+P0073,Atit,Sheth,Atit Sheth,India,26,All Rounder,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0074,Auqib,Dar,Auqib Dar,India,25,All Rounder,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0075,Avesh,Khan,Avesh Khan,India,25,Bowler,RHB,Right Arm Fast,100000000,Sold,LSG
+P0076,Avishka,Fernando,Avishka Fernando,Sri Lanka,24,Batsman,RHB,Right Arm Medium,0,UnSold,NotSold
+P0077,Ayush,Badoni,Ayush Badoni,India,22,All Rounder,RHB,Right Arm Off Spin,2000000,Sold,LSG
+P0078,Azim,Kazi,Azim Kazi,India,28,All Rounder,LHB,Left Arm Slow Orthodox,0,UnSold,NotSold
+P0079,BR,Sharath,BR Sharath,India,25,Wicket Keeper,RHB,None,0,UnSold,NotSold
+P0080,B Sai,Sudharsan,B Sai Sudharsan,India,20,All Rounder,LHB,Right Arm Leg Spin,2000000,Sold,GT
+P0081,Baba,Aparajith,Baba Aparajith,India,27,All Rounder,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0082,Baba,Indrajith,Baba Indrajith,India,27,Wicket Keeper,RHB,None,2000000,Sold,KKR
+P0083,Babasafi,Pathan,Babasafi Pathan,India,27,Bowler,RHB,Right Arm Fast,0,UnSold,NotSold
+P0084,Baltej,Dhanda,Baltej Dhanda,India,31,Bowler,RHB,Right Arm Fast Medium,2000000,Sold,PK
+P0085,Bandaru,Ayyappa,Bandaru Ayyappa,India,29,Bowler,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0086,Barinder,Sran,Barinder Sran,India,29,Bowler,LHB,Left Arm Fast Medium,0,UnSold,NotSold
+P0087,Basil,Thampi,Basil Thampi,India,28,Bowler,RHB,Right Arm Fast Medium,3000000,Sold,MI
+P0088,Bavanaka,Sandeep,Bavanaka Sandeep,India,29,All Rounder,LHB,Left Arm Slow Orthodox,0,UnSold,NotSold
+P0089,Ben,Cutting,Ben Cutting,Australia,35,All Rounder,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0090,Ben,Dwarshuis,Ben Dwarshuis,Australia,27,Bowler,LHB,Left Arm Fast,0,UnSold,NotSold
+P0091,Ben,Mcdermott,Ben Mcdermott,Australia,27,Wicket Keeper,RHB,None,0,UnSold,NotSold
+P0092,Benny,Howell,Benny Howell,England,33,All Rounder,RHB,Right Arm Medium,4000000,Sold,PK
+P0093,Beyers,Swanepoel,Beyers Swanepoel,South Africa,23,All Rounder,LHB,Right Arm Fast,0,UnSold,NotSold
+P0094,Bhanuka,Rajapaksa,Bhanuka Rajapaksa,Sri Lanka,30,Batsman,LHB,None,5000000,Sold,PK
+P0095,Bharat,Sharma,Bharat Sharma,India,26,All Rounder,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0096,Bhupen,Lalwani,Bhupen Lalwani,India,23,Batsman,RHB,None,0,UnSold,NotSold
+P0097,Bhuvneshwar,Kumar,Bhuvneshwar Kumar,India,32,Bowler,RHB,Right Arm Fast Medium,42000000,Sold,SRH
+P0098,Billy,Stanlake,Billy Stanlake,Australia,27,Bowler,LHB,Right Arm Fast,0,UnSold,NotSold
+P0099,Blair,Tickner,Blair Tickner,New Zealand,28,Bowler,RHB,Right Arm Fast,0,UnSold,NotSold
+P0100,Blessing,Muzarabani,Blessing Muzarabani,Zimbabwe,25,Bowler,RHB,Right Arm Fast,0,UnSold,NotSold
+P0101,Brad,Wheal,Brad Wheal,Scotland,25,Bowler,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0102,Brandon,King,Brandon King,West Indies,27,Batsman,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0103,C Hari,Nishaanth,C Hari Nishaanth,India,25,Batsman,LHB,Right Arm Off Spin,2000000,Sold,CSK
+P0104,Cam,Fletcher,Cam Fletcher,New Zealand,29,Wicket Keeper,RHB,None,0,UnSold,NotSold
+P0105,Carlos,Brathwaite,Carlos Brathwaite,West Indies,33,All Rounder,RHB,Right Arm Fast,0,UnSold,NotSold
+P0106,Chaitanya,Bishnoi,Chaitanya Bishnoi,India,27,All Rounder,LHB,Left Arm Slow Orthodox,0,UnSold,NotSold
+P0107,Chama,Milind,Chama Milind,India,27,Bowler,LHB,Left Arm Fast,2500000,Sold,RCB
+P0108,Chamika,Karunaratne,Chamika Karunaratne,Sri Lanka,25,All Rounder,RHB,Right Arm Fast Medium,5000000,Sold,KKR
+P0109,Charith,Asalanka,Charith Asalanka,Sri Lanka,24,All Rounder,LHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0110,Chetan,Sakariya,Chetan Sakariya,India,24,Bowler,LHB,Left Arm Fast Medium,42000000,Sold,DC
+P0111,Cheteshwar,Pujara,Cheteshwar Pujara,India,34,Batsman,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0112,Chinntla,Readdi,Chinntla Readdi,India,21,Bowler,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0113,Chintal,Gandhi,Chintal Gandhi,India,27,Bowler,LHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0114,Chirag,Gandhi,Chirag Gandhi,India,31,All Rounder,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0115,Chris,Green,Chris Green,Australia,28,All Rounder,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0116,Chris,Jordan,Chris Jordan,England,33,All Rounder,RHB,Right Arm Fast Medium,36000000,Sold,CSK
+P0117,Chris,Lynn,Chris Lynn,Australia,31,Batsman,RHB,Left Arm Slow Orthodox,0,UnSold,NotSold
+P0118,Colin,De Grandhomme,Colin De Grandhomme,New Zealand,35,All Rounder,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0119,Colin,Munro,Colin Munro,New Zealand,35,All Rounder,LHB,Right Arm Medium,0,UnSold,NotSold
+P0120,Corbin,Bosch,Corbin Bosch,South Africa,36,Bowler,LHB,Left Arm Slow Orthodox,2000000,Sold,RR
+P0121,Craig,Overton,Craig Overton,England,27,All Rounder,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0122,Curtis,Campher,Curtis Campher,Ireland,22,All Rounder,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0123,Daniel,Sams,Daniel Sams,Australia,29,All Rounder,RHB,Left Arm Fast Medium,26000000,Sold,MI
+P0124,Danushka,Gunatilaka,Danushka Gunatilaka,Sri Lanka,31,All Rounder,LHB,Right Arm Off Spin,0,UnSold,NotSold
+P0125,Darcy,Short,Darcy Short,Australia,31,All Rounder,LHB,Left Arm Slow Unorthodox,0,UnSold,NotSold
+P0126,Darren,Bravo,Darren Bravo,West Indies,33,Batsman,LHB,None,0,UnSold,NotSold
+P0127,Darshan,Nalkande,Darshan Nalkande,India,23,All Rounder,RHB,Right Arm Fast Medium,2000000,Sold,GT
+P0128,Daryl,Mitchell,Daryl Mitchell,New Zealand,30,All Rounder,RHB,Right Arm Medium,7500000,Sold,RR
+P0129,Daryn,Dupavillon,Daryn Dupavillon,South Africa,27,Bowler,RHB,Right Arm Fast,0,UnSold,NotSold
+P0130,Dasun,Shanaka,Dasun Shanaka,Sri Lanka,30,All Rounder,RHB,Right Arm Medium,0,UnSold,NotSold
+P0131,David,Miller,David Miller,South Africa,32,Batsman,LHB,None,30000000,Sold,GT
+P0132,David,Warner,David Warner,Australia,35,Batsman,LHB,None,62500000,Sold,DC
+P0133,David,Wiese,David Wiese,Namibia,36,All Rounder,RHB,Right Arm Medium,0,UnSold,NotSold
+P0134,David,Willey,David Willey,England,32,All Rounder,LHB,Left Arm Fast Medium,20000000,Sold,RCB
+P0135,Dawid,Malan,Dawid Malan,England,34,Batsman,LHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0136,Deepak,Chahar,Deepak Chahar,India,29,Bowler,RHB,Right Arm Fast Medium,140000000,Sold,CSK
+P0137,Deepak,Hooda,Deepak Hooda,India,26,All Rounder,RHB,Right Arm Off Spin,57500000,Sold,LSG
+P0138,Dev,Lakra,Dev Lakra,India,19,All Rounder,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0139,Devdutt,Padikkal,Devdutt Padikkal,India,21,Batsman,LHB,Right Arm Off Spin,77500000,Sold,RR
+P0140,Devon,Conway,Devon Conway,New Zealand,30,Batsman,LHB,Right Arm Medium,10000000,Sold,CSK
+P0141,Dewald,Brevis,Dewald Brevis,South Africa,18,Batsman,RHB,Right Arm Leg Spin,30000000,Sold,MI
+P0142,Dhananjaya,Lakshan,Dhananjaya Lakshan,Sri Lanka,23,All Rounder,LHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0143,Dharmendrasinh,Jadeja,Dharmendrasinh Jadeja,India,31,Bowler,LHB,Left Arm Slow Orthodox,0,UnSold,NotSold
+P0144,Dhawal,Kulkarni,Dhawal Kulkarni,India,33,Bowler,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0145,Dhrushant,Soni,Dhrushant Soni,India,26,All Rounder,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0146,Dhruv,Jurel,Dhruv Jurel,India,21,Wicket Keeper,RHB,None,2000000,Sold,RR
+P0147,Dhruv,Patel,Dhruv Patel,India,24,All Rounder,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0148,Dhruv,Shorey,Dhruv Shorey,India,29,Batsman,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0149,Dikshanshu,Negi,Dikshanshu Negi,India,31,All Rounder,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0150,Dinesh,Karthik,Dinesh Karthik,India,36,Wicket Keeper,RHB,None,55000000,Sold,RCB
+P0151,Divyang,Hinganekar,Divyang Hinganekar,India,28,All Rounder,RHB,Left Arm Fast Medium,0,UnSold,NotSold
+P0152,Diwesh,Pathania,Diwesh Pathania,India,32,All Rounder,RHB,Right Arm Medium,0,UnSold,NotSold
+P0153,Dominic,Drakes,Dominic Drakes,West Indies,24,All Rounder,LHB,Left Arm Fast,11000000,Sold,GT
+P0154,Donavon,Ferreira,Donavon Ferreira,South Africa,23,Batsman,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0155,Duan,Jansen,Duan Jansen,South Africa,21,All Rounder,RHB,Left Arm Fast,0,UnSold,NotSold
+P0156,Dunith,Wellalage,Dunith Wellalage,Sri Lanka,19,All Rounder,LHB,Left Arm Slow Orthodox,0,UnSold,NotSold
+P0157,Dushmanta,Chameera,Dushmanta Chameera,Sri Lanka,30,Bowler,RHB,Right Arm Fast,20000000,Sold,LSG
+P0158,Dwaine,Pretorius,Dwaine Pretorius,South Africa,33,All Rounder,RHB,Right Arm Fast Medium,5000000,Sold,CSK
+P0159,Dwayne,Bravo,Dwayne Bravo,West Indies,38,All Rounder,RHB,Right Arm Fast Medium,44000000,Sold,CSK
+P0160,Eknath,Kerkar,Eknath Kerkar,India,28,Wicket Keeper,RHB,None,0,UnSold,NotSold
+P0161,Eoin,Morgan,Eoin Morgan,England,35,Batsman,LHB,Right Arm Medium,0,UnSold,NotSold
+P0162,Evin,Lewis,Evin Lewis,West Indies,30,Batsman,LHB,None,20000000,Sold,LSG
+P0163,Fabian,Allen,Fabian Allen,West Indies,26,All Rounder,RHB,Left Arm Slow Orthodox,7500000,Sold,MI
+P0164,Faf,Du Plessis,Faf Du Plessis,South Africa,37,Batsman,RHB,Right Arm Leg Spin,70000000,Sold,RCB
+P0165,Fazalhaq,Farooqi,Fazalhaq Farooqi,Afghanistan,21,Bowler,RHB,Left Arm Fast Medium,5000000,Sold,SRH
+P0166,Fazil,Makaya,Fazil Makaya,India,25,Wicket Keeper,RHB,None,0,UnSold,NotSold
+P0167,Fidel,Edwards,Fidel Edwards,West Indies,40,Bowler,RHB,Right Arm Fast,0,UnSold,NotSold
+P0168,Finn,Allen,Finn Allen,New Zealand,22,Batsman,RHB,Right Arm Off Spin,8000000,Sold,RCB
+P0169,G,Periyasamy,G Periyasamy,India,28,Bowler,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0170,Gareth,Delany,Gareth Delany,Ireland,24,All Rounder,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0171,George,Garton,George Garton,England,24,All Rounder,LHB,Left Arm Fast,0,UnSold,NotSold
+P0172,Gerald,Coetzee,Gerald Coetzee,South Africa,21,All Rounder,RHB,Right Arm Fast,0,UnSold,NotSold
+P0173,Girinath,Reddy,Girinath Reddy,India,23,All Rounder,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0174,Glenn,Phillips,Glenn Phillips,New Zealand,25,Wicket Keeper,RHB,Right Arm Off Spin,15000000,Sold,SRH
+P0175,Glenn,Maxwell,Glenn Maxwell,Australia,33,All Rounder,RHB,Right Arm Off Spin,110000000,Sold,RCB
+P0176,Gulbadin,Naib,Gulbadin Naib,Afghanistan,30,All Rounder,RHB,Right Arm Medium,0,UnSold,NotSold
+P0177,Gurkeerat,Singh,Gurkeerat Singh,India,31,All Rounder,RHB,Right Arm Off Spin,5000000,Sold,GT
+P0178,Gurnoor Singh,Brar,Gurnoor Singh Brar,India,21,Bowler,LHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0179,Hamid,Hassan,Hamid Hassan,Afghanistan,34,Bowler,RHB,Right Arm Fast,0,UnSold,NotSold
+P0180,Hamish,Bennett,Hamish Bennett,New Zealand,35,Bowler,LHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0181,Hanuma,Vihari,Hanuma Vihari,India,28,Batsman,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0182,Hardik,Pandya,Hardik Pandya,India,28,All Rounder,RHB,Right Arm Fast Medium,150000000,Sold,GT
+P0183,Harnoor,Singh,Harnoor Singh,India,19,Batsman,LHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0184,Harpreet,Bhatia,Harpreet Bhatia,India,30,Batsman,LHB,Right Arm Medium,0,UnSold,NotSold
+P0185,Harpreet,Brar,Harpreet Brar,India,26,All Rounder,LHB,Left Arm Slow Orthodox,38000000,Sold,PK
+P0186,Harry,Brook,Harry Brook,England,29,Batsman,LHB,None,132500000,Sold,SRH
+P0187,Harsh,Tyagi,Harsh Tyagi,India,22,All Rounder,LHB,Left Arm Slow Orthodox,0,UnSold,NotSold
+P0188,Harshal,Patel,Harshal Patel,India,31,All Rounder,RHB,Right Arm Fast Medium,107500000,Sold,RCB
+P0189,Harvik,Desai,Harvik Desai,India,22,Wicket Keeper,RHB,None,0,UnSold,NotSold
+P0190,Hashmatullah,Shahidi,Hashmatullah Shahidi,Afghanistan,27,Batsman,LHB,Right Arm Off Spin,0,UnSold,NotSold
+P0191,Hayden,Kerr,Hayden Kerr,Australia,25,All Rounder,RHB,Left Arm Fast Medium,0,UnSold,NotSold
+P0192,Hayden,Walsh,Hayden Walsh,West Indies,29,Bowler,LHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0193,Hazratullah,Zazai,Hazratullah Zazai,Afghanistan,24,Batsman,LHB,None,0,UnSold,NotSold
+P0194,Heinrich,Klaasen,Heinrich Klaasen,South Africa,30,Wicket Keeper,RHB,None,0,UnSold,NotSold
+P0195,Henan,Malik,Henan Malik,India,25,Batsman,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0196,Henry,Shipley,Henry Shipley,New Zealand,25,All Rounder,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0197,Hilton,Cartwright,Hilton Cartwright,Australia,30,All Rounder,RHB,Right Arm Medium,0,UnSold,NotSold
+P0198,Himanshu,Rana,Himanshu Rana,India,23,Batsman,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0199,Himmat,Singh,Himmat Singh,India,25,Batsman,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0200,Hiten,Dalal,Hiten Dalal,India,27,Batsman,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0201,Hrithik,Shokeen,Hrithik Shokeen,India,21,All Rounder,RHB,Right Arm Off Spin,2000000,Sold,MI
+P0202,Imran,Tahir,Imran Tahir,South Africa,43,Bowler,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0203,Ish,Sodhi,Ish Sodhi,New Zealand,29,Bowler,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0204,Ishan,Afridi,Ishan Afridi,India,19,All Rounder,RHB,Right Arm Fast,0,UnSold,NotSold
+P0205,Ishan,Kishan,Ishan Kishan,India,23,Wicket Keeper,LHB,None,152500000,Sold,MI
+P0206,Ishan,Porel,Ishan Porel,India,23,Bowler,RHB,Right Arm Fast Medium,2500000,Sold,PK
+P0207,Ishank,Jaggi,Ishank Jaggi,India,33,Batsman,RHB,None,0,UnSold,NotSold
+P0208,Ishant,Sharma,Ishant Sharma,India,33,Bowler,RHB,Right Arm Fast,0,UnSold,NotSold
+P0209,Isuru,Udana,Isuru Udana,Sri Lanka,34,Bowler,RHB,Left Arm Fast Medium,0,UnSold,NotSold
+P0210,Izharulhuq,Naveed,Izharulhuq Naveed,Afghanistan,18,Bowler,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0211,J,Kousik,J Kousik,India,26,All Rounder,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0212,Jack,Wildermuth,Jack Wildermuth,Australia,28,All Rounder,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0213,Jacob,Lintott,Jacob Lintott,England,28,Bowler,RHB,Left Arm Slow Unorthodox,0,UnSold,NotSold
+P0214,Jagadeesha,Suchith,Jagadeesha Suchith,India,28,Bowler,LHB,Left Arm Slow Orthodox,2000000,Sold,SRH
+P0215,Jaideep,Bhambhu,Jaideep Bhambhu,India,23,Bowler,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0216,Jake,Weatherald,Jake Weatherald,Australia,27,Batsman,LHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0217,Jalaj,Saxena,Jalaj Saxena,India,35,Bowler,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0218,James,Faulkner,James Faulkner,Australia,31,All Rounder,RHB,Left Arm Medium,0,UnSold,NotSold
+P0219,James,Neesham,James Neesham,New Zealand,31,All Rounder,LHB,Right Arm Fast Medium,15000000,Sold,RR
+P0220,James,Vince,James Vince,England,31,Batsman,RHB,None,0,UnSold,NotSold
+P0221,Janneman,Malan,Janneman Malan,South Africa,25,Batsman,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0222,Jasmer,Dhankhar,Jasmer Dhankhar,India,23,Bowler,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0223,Jason,Behrendorff,Jason Behrendorff,Australia,31,Bowler,RHB,Left Arm Fast Medium,7500000,Sold,RCB
+P0224,Jason,Holder,Jason Holder,West Indies,30,All Rounder,RHB,Right Arm Fast,87500000,Sold,LSG
+P0225,Jason,Roy,Jason Roy,England,31,Batsman,RHB,None,20000000,Sold,GT
+P0226,Jason,Sangha,Jason Sangha,Australia,22,All Rounder,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0227,Jasprit,Bumrah,Jasprit Bumrah,India,28,Bowler,RHB,Right Arm Medium,120000000,Sold,MI
+P0228,Jay,Bista,Jay Bista,India,26,All Rounder,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0229,Jayant,Yadav,Jayant Yadav,India,32,All Rounder,RHB,Right Arm Off Spin,17000000,Sold,GT
+P0230,Jayden,Seales,Jayden Seales,West Indies,20,Bowler,LHB,Right Arm Fast,0,UnSold,NotSold
+P0231,Jaydev,Unadkat,Jaydev Unadkat,India,30,Bowler,RHB,Left Arm Fast Medium,13000000,Sold,MI
+P0232,Jitender,Pal,Jitender Pal,India,22,All Rounder,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0233,Jitesh,Sharma,Jitesh Sharma,India,28,Wicket Keeper,RHB,None,2000000,Sold,PK
+P0234,Joel,Paris,Joel Paris,Australia,29,Bowler,LHB,Left Arm Fast Medium,0,UnSold,NotSold
+P0235,Jofra,Archer,Jofra Archer,England,27,All Rounder,RHB,Right Arm Fast,80000000,Sold,MI
+P0236,Johan,Van Dyk,Johan Van Dyk,South Africa,28,All Rounder,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0237,Johannes,Smit,Johannes Smit,Namibia,26,All Rounder,RHB,Left Arm Medium,0,UnSold,NotSold
+P0238,Jon Russ,Jaggesar,Jon Russ Jaggesar,West Indies,36,Bowler,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0239,Jonny,Bairstow,Jonny Bairstow,England,32,Wicket Keeper,RHB,None,67500000,Sold,PK
+P0240,Jonty,Sidhu,Jonty Sidhu,India,24,All Rounder,LHB,Right Arm Off Spin,0,UnSold,NotSold
+P0241,Jos,Buttler,Jos Buttler,England,31,Wicket Keeper,RHB,None,100000000,Sold,RR
+P0242,Josh,Hazlewood,Josh Hazlewood,Australia,31,Bowler,LHB,Right Arm Fast,77500000,Sold,RCB
+P0243,Josh,Little,Josh Little,Ireland,22,Bowler,RHB,Left Arm Fast Medium,0,UnSold,NotSold
+P0244,Joshua,Philippe,Joshua Philippe,Australia,24,Wicket Keeper,RHB,None,0,UnSold,NotSold
+P0245,K,Gowtham,K Gowtham,India,33,All Rounder,RHB,Right Arm Off Spin,9000000,Sold,LSG
+P0246,KC,Cariappa,KC Cariappa,India,27,Bowler,RHB,Right Arm Leg Spin,3000000,Sold,RR
+P0247,KL,Shrijith,KL Shrijith,India,25,Wicket Keeper,LHB,None,0,UnSold,NotSold
+P0248,KL,Rahul,KL Rahul,India,29,Batsman,RHB,Left Arm Slow Orthodox,170000000,Sold,LSG
+P0249,KM,Asif,KM Asif,India,28,Bowler,RHB,Right Arm Fast,2000000,Sold,CSK
+P0250,KS,Bharat,KS Bharat,India,28,Wicket Keeper,RHB,None,20000000,Sold,DC
+P0251,KV,Sasikanth,KV Sasikanth,India,26,All Rounder,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0252,K Bhagath,Varma,K Bhagath Varma,India,23,All Rounder,RHB,Right Arm Off Spin,2000000,Sold,CSK
+P0253,Kagiso,Rabada,Kagiso Rabada,South Africa,26,Bowler,LHB,Right Arm Fast,92500000,Sold,PK
+P0254,Kaif,Ahmad,Kaif Ahmad,India,24,Wicket Keeper,RHB,None,0,UnSold,NotSold
+P0255,Kamlesh,Nagarkoti,Kamlesh Nagarkoti,India,22,All Rounder,RHB,Right Arm Fast Medium,11000000,Sold,DC
+P0256,Kane,Richardson,Kane Richardson,Australia,31,Bowler,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0257,Kane,Williamson,Kane Williamson,New Zealand,25,Batsman,LHB,Left Arm Fast Medium,20000000,Sold,GT
+P0258,Karan,Sharma,Karan Sharma,India,23,All Rounder,RHB,Right Arm Off Spin,2000000,Sold,LSG
+P0259,Karim,Janat,Karim Janat,Afghanistan,23,All Rounder,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0260,Karn,Sharma,Karn Sharma,India,34,Bowler,LHB,Right Arm Leg Spin,5000000,Sold,RCB
+P0261,Kartik,Tyagi,Kartik Tyagi,India,21,Bowler,RHB,Right Arm Fast Medium,40000000,Sold,SRH
+P0262,Kartikeya,Kak,Kartikeya Kak,India,25,Bowler,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0263,Karun,Nair,Karun Nair,India,30,Batsman,RHB,Right Arm Off Spin,14000000,Sold,RR
+P0264,Kaushal,Tambe,Kaushal Tambe,India,19,All Rounder,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0265,Kedar,Devdhar,Kedar Devdhar,India,32,Wicket Keeper,RHB,None,0,UnSold,NotSold
+P0266,Kedar,Jadhav,Kedar Jadhav,India,37,All Rounder,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0267,Keemo,Paul,Keemo Paul,West Indies,24,All Rounder,RHB,Right Arm Fast,0,UnSold,NotSold
+P0268,Kennar,Lewis,Kennar Lewis,West Indies,30,Wicket Keeper,RHB,None,0,UnSold,NotSold
+P0269,Keshav,Maharaj,Keshav Maharaj,South Africa,32,Bowler,RHB,Left Arm Slow Orthodox,0,UnSold,NotSold
+P0270,Kevin,Koththigoda,Kevin Koththigoda,Sri Lanka,23,Bowler,LHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0271,Khaleel,Ahmed,Khaleel Ahmed,India,24,Bowler,RHB,Left Arm Fast Medium,52500000,Sold,DC
+P0272,Khizar,Dafedar,Khizar Dafedar,India,24,All Rounder,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0273,Khrievitso,Kense,Khrievitso Kense,India,18,Bowler,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0274,Khwezi,Gumede,Khwezi Gumede,South Africa,22,Bowler,RHB,Left Arm Fast,0,UnSold,NotSold
+P0275,Kieron,Pollard,Kieron Pollard,West Indies,34,All Rounder,RHB,Right Arm Fast Medium,60000000,Sold,MI
+P0276,Krunal,Pandya,Krunal Pandya,India,31,All Rounder,LHB,Left Arm Slow Orthodox,82500000,Sold,LSG
+P0277,Kuldeep,Sen,Kuldeep Sen,India,25,Bowler,RHB,Right Arm Fast Medium,2000000,Sold,RR
+P0278,Kuldeep,Yadav,Kuldeep Yadav,India,27,Bowler,LHB,Left Arm Slow Unorthodox,20000000,Sold,DC
+P0279,Kuldip,Yadav,Kuldip Yadav,India,25,Bowler,LHB,Left Arm Fast,2000000,Sold,RR
+P0280,Kulwant,Khejroliya,Kulwant Khejroliya,India,30,Bowler,LHB,Left Arm Fast,0,UnSold,NotSold
+P0281,Kumar Kartikeya,Singh,Kumar Kartikeya Singh,India,24,All Rounder,RHB,Left Arm Slow Orthodox,0,UnSold,NotSold
+P0282,Kurtis,Patterson,Kurtis Patterson,Australia,29,Batsman,LHB,None,0,UnSold,NotSold
+P0283,Kusal,Mendis,Kusal Mendis,Sri Lanka,27,Wicket Keeper,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0284,Kusal,Perera,Kusal Perera,Sri Lanka,31,Wicket Keeper,LHB,None,0,UnSold,NotSold
+P0285,Kushaal,Wadhwani,Kushaal Wadhwani,India,25,Bowler,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0286,Kyle,Mayers,Kyle Mayers,West Indies,29,All Rounder,LHB,Right Arm Fast Medium,5000000,Sold,LSG
+P0287,Lahiru,Kumara,Lahiru Kumara,Sri Lanka,25,Bowler,RHB,Right Arm Fast,0,UnSold,NotSold
+P0288,Lakhan,Raja,Lakhan Raja,India,27,All Rounder,LHB,Right Arm Off Spin,0,UnSold,NotSold
+P0289,Lalit,Yadav,Lalit Yadav,India,25,All Rounder,RHB,Right Arm Off Spin,6500000,Sold,DC
+P0290,Laurie,Evans,Laurie Evans,England,34,Batsman,RHB,None,0,UnSold,NotSold
+P0291,Lewis,Gregory,Lewis Gregory,England,29,All Rounder,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0292,Liam,Guthrie,Liam Guthrie,Australia,24,Bowler,LHB,Left Arm Fast,0,UnSold,NotSold
+P0293,Liam,Hatcher,Liam Hatcher,Australia,25,Bowler,RHB,Right Arm Fast,0,UnSold,NotSold
+P0294,Liam,Livingstone,Liam Livingstone,England,28,All Rounder,RHB,Right Arm Leg Spin,115000000,Sold,PK
+P0295,Litton,Das,Litton Das,Bangladesh,27,Wicket Keeper,RHB,None,0,UnSold,NotSold
+P0296,Lockie,Ferguson,Lockie Ferguson,New Zealand,30,Bowler,RHB,Right Arm Fast,100000000,Sold,GT
+P0297,Lone,Muzaffar,Lone Muzaffar,India,24,All Rounder,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0298,Lukman Hussain,Meriwala,Lukman Hussain Meriwala,India,30,Bowler,LHB,Left Arm Fast Medium,0,UnSold,NotSold
+P0299,Lungisani,Ngidi,Lungisani Ngidi,South Africa,26,Bowler,RHB,Right Arm Fast,5000000,Sold,DC
+P0300,Luvnith,Sisodia,Luvnith Sisodia,India,22,Wicket Keeper,LHB,Right Arm Off Spin,2000000,Sold,RCB
+P0301,M,Mohammed,M Mohammed,India,30,All Rounder,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0302,M,Nidheesh,M Nidheesh,India,30,Bowler,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0303,M,Siddharth,M Siddharth,India,23,Bowler,RHB,Left Arm Slow Orthodox,0,UnSold,NotSold
+P0304,M,Venkatesh,M Venkatesh,India,21,All Rounder,LHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0305,MB,Darshan,MB Darshan,India,26,Bowler,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0306,M Harishankar,Reddy,M Harishankar Reddy,India,23,Bowler,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0307,Maheesh,Theekshana,Maheesh Theekshana,Sri Lanka,21,Bowler,RHB,Right Arm Off Spin,7000000,Sold,CSK
+P0308,Mahipal,Lomror,Mahipal Lomror,India,22,All Rounder,LHB,Left Arm Slow Orthodox,9500000,Sold,RCB
+P0309,Manan,Vohra,Manan Vohra,India,28,Batsman,RHB,None,2000000,Sold,LSG
+P0310,Manav,Suthar,Manav Suthar,India,19,Bowler,LHB,Left Arm Slow Orthodox,0,UnSold,NotSold
+P0311,Mandeep,Singh,Mandeep Singh,India,30,Batsman,RHB,Right Arm Medium,11000000,Sold,DC
+P0312,Manish,Pandey,Manish Pandey,India,32,Batsman,RHB,Right Arm Off Spin,46000000,Sold,LSG
+P0313,Manish,Reddy,Manish Reddy,India,23,Bowler,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0314,Manoj,Bhandage,Manoj Bhandage,India,23,All Rounder,LHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0315,Manoj,Tiwary,Manoj Tiwary,India,36,Batsman,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0316,Marchant,De Lange,Marchant De Lange,South Africa,31,Bowler,RHB,Right Arm Fast,0,UnSold,NotSold
+P0317,Marco,Jansen,Marco Jansen,South Africa,21,All Rounder,RHB,Left Arm Fast,42000000,Sold,SRH
+P0318,Mark,Adnair,Mark Adnair,Ireland,26,All Rounder,RHB,Right Arm Fast,0,UnSold,NotSold
+P0319,Mark,Deyal,Mark Deyal,West Indies,28,All Rounder,LHB,Right Arm Off Spin,0,UnSold,NotSold
+P0320,Mark,Wood,Mark Wood,England,32,Bowler,RHB,Right Arm Fast,75000000,Sold,LSG
+P0321,Marnus,Labuschagne,Marnus Labuschagne,Australia,27,Batsman,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0322,Martin,Guptill,Martin Guptill,New Zealand,35,Batsman,RHB,None,0,UnSold,NotSold
+P0323,Matheesha,Pathirana,Matheesha Pathirana,Sri Lanka,19,Bowler,RHB,Right Arm Fast,0,UnSold,NotSold
+P0324,Matt,Kelly,Matt Kelly,Australia,27,Bowler,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0325,Matthew,Short,Matthew Short,Australia,26,All Rounder,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0326,Matthew,Wade,Matthew Wade,Australia,34,Wicket Keeper,LHB,None,24000000,Sold,GT
+P0327,Maxwell,Swaminathan,Maxwell Swaminathan,India,23,All Rounder,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0328,Mayank,Dagar,Mayank Dagar,India,25,All Rounder,RHB,Left Arm Slow Orthodox,0,UnSold,NotSold
+P0329,Mayank,Markande,Mayank Markande,India,24,Bowler,RHB,Right Arm Leg Spin,6500000,Sold,MI
+P0330,Mayank,Rawat,Mayank Rawat,India,22,Batsman,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0331,Mayank,Yadav,Mayank Yadav,India,19,Bowler,RHB,Right Arm Fast Medium,2000000,Sold,LSG
+P0332,Mayank,Agarwal,Mayank Agarwal,India,30,Batsman,RHB,Right Arm Off Spin,120000000,Sold,PK
+P0333,Mickil,Jaiswal,Mickil Jaiswal,India,23,All Rounder,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0334,Midhun,Sudhesan,Midhun Sudhesan,India,27,Bowler,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0335,Migael,Pretorius,Migael Pretorius,South Africa,27,All Rounder,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0336,Milind,Tandon,Milind Tandon,India,28,Bowler,RHB,Left Arm Slow Unorthodox,0,UnSold,NotSold
+P0337,Mitchell,Marsh,Mitchell Marsh,Australia,30,All Rounder,RHB,Right Arm Fast Medium,65000000,Sold,DC
+P0338,Mitchell,Santner,Mitchell Santner,New Zealand,30,All Rounder,LHB,Left Arm Slow Orthodox,19000000,Sold,CSK
+P0339,Mohammad,Nabi,Mohammad Nabi,Afghanistan,37,All Rounder,RHB,Right Arm Off Spin,10000000,Sold,KKR
+P0340,Mohammad,Shami,Mohammad Shami,India,32,Bowler,RHB,Right Arm Fast,62500000,Sold,GT
+P0341,Mohammed,Afridi,Mohammed Afridi,India,23,All Rounder,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0342,Mohammed,Azharuddeen,Mohammed Azharuddeen,India,28,Wicket Keeper,RHB,None,0,UnSold,NotSold
+P0343,Mohammed,Siraj,Mohammed Siraj,India,27,Bowler,RHB,Right Arm Fast,70000000,Sold,RCB
+P0344,Mohd. Arshad,Khan,Mohd. Arshad Khan,India,24,All Rounder,LHB,Left Arm Fast Medium,2000000,Sold,MI
+P0345,Mohit,Avasthi,Mohit Avasthi,India,29,Bowler,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0346,Mohit,Jangra,Mohit Jangra,India,22,Bowler,LHB,Left Arm Fast Medium,0,UnSold,NotSold
+P0347,Mohit,Sharma,Mohit Sharma,India,33,Bowler,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0348,Mohsin,Khan,Mohsin Khan,India,23,Bowler,LHB,Left Arm Fast Medium,2000000,Sold,LSG
+P0349,Moises,Henriques,Moises Henriques,Australia,35,All Rounder,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0350,MS,Dhoni ,MS Dhoni ,India,40,Batsman,RHB,Right Arm Medium,120000000,Sold,CSK
+P0351,Mujeeb,Zadran,Mujeeb Zadran,Afghanistan,21,Bowler,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0352,Mujtaba,Yousuf,Mujtaba Yousuf,India,19,Bowler,LHB,Left Arm Fast,0,UnSold,NotSold
+P0353,Mukesh,Choudhary,Mukesh Choudhary,India,25,Bowler,LHB,Left Arm Fast,2000000,Sold,CSK
+P0354,Mukesh Kumar,Singh,Mukesh Kumar Singh,India,28,Bowler,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0355,Murali,Vijay,Murali Vijay,India,38,All Rounder,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0356,Murugan,Ashwin,Murugan Ashwin,India,31,Bowler,RHB,Right Arm Leg Spin,16000000,Sold,MI
+P0357,Mustafizur,Rahman,Mustafizur Rahman,Bangladesh,26,Bowler,LHB,Left Arm Fast Medium,20000000,Sold,DC
+P0358,N,Jagadeesan,N Jagadeesan,India,26,Wicket Keeper,RHB,None,2000000,Sold,CSK
+P0359,N Tilak,Varma,N Tilak Varma,India,19,All Rounder,LHB,Right Arm Off Spin,17000000,Sold,MI
+P0360,Najibullah,Zadran,Najibullah Zadran,Afghanistan,29,Batsman,LHB,Right Arm Off Spin,0,UnSold,NotSold
+P0361,Nandre,Burger,Nandre Burger,South Africa,26,Bowler,LHB,Left Arm Fast,0,UnSold,NotSold
+P0362,Nathan,Coulter Nile,Nathan Coulter Nile,Australia,34,Bowler,RHB,Right Arm Fast Medium,20000000,Sold,RR
+P0363,Nathan,Ellis,Nathan Ellis,Australia,27,Bowler,RHB,Right Arm Fast Medium,7500000,Sold,PK
+P0364,Nathan,McAndrew,Nathan McAndrew,Australia,28,All Rounder,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0365,Naushad,Shaikh,Naushad Shaikh,India,30,Batsman,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0366,Navdeep,Saini,Navdeep Saini,India,29,Bowler,RHB,Right Arm Fast,26000000,Sold,RR
+P0367,Naveen,Ul Haq,Naveen Ul Haq,Afghanistan,22,Bowler,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0368,Neil,Wagner,Neil Wagner,New Zealand,36,Bowler,LHB,Left Arm Fast Medium,0,UnSold,NotSold
+P0369,Nicholas,Pooran,Nicholas Pooran,West Indies,26,Wicket Keeper,LHB,None,107500000,Sold,SRH
+P0370,Nidhish,Rajagopal,Nidhish Rajagopal,India,22,All Rounder,LHB,Right Arm Fast,0,UnSold,NotSold
+P0371,Nikhil,Gangta,Nikhil Gangta,India,29,Batsman,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0372,Nikhil,Naik,Nikhil Naik,India,27,Wicket Keeper,RHB,None,0,UnSold,NotSold
+P0373,Ninad,Rathva,Ninad Rathva,India,23,All Rounder,LHB,Left Arm Slow Orthodox,0,UnSold,NotSold
+P0374,Niroshan,Dickwella,Niroshan Dickwella,Sri Lanka,28,Wicket Keeper,LHB,None,0,UnSold,NotSold
+P0375,Nitish,Rana,Nitish Rana,India,28,All Rounder,LHB,Right Arm Off Spin,80000000,Sold,KKR
+P0376,Noor,Ahmad,Noor Ahmad,Afghanistan,17,Bowler,RHB,Left Arm Slow Unorthodox,3000000,Sold,GT
+P0377,Nuwan,Thushara,Nuwan Thushara,Sri Lanka,27,Bowler,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0378,Nyeem,Young,Nyeem Young,West Indies,21,All Rounder,RHB,Right Arm Medium,0,UnSold,NotSold
+P0379,Obed,Mccoy,Obed Mccoy,West Indies,25,Bowler,LHB,Left Arm Fast,7500000,Sold,RR
+P0380,Odean,Smith,Odean Smith,West Indies,25,All Rounder,RHB,Right Arm Fast,60000000,Sold,PK
+P0381,Oshane,Thomas,Oshane Thomas,West Indies,25,Bowler,LHB,Right Arm Fast,0,UnSold,NotSold
+P0382,Ottneil,Baartman,Ottneil Baartman,South Africa,29,Bowler,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0383,Pankaj,Jaswal,Pankaj Jaswal,India,26,Bowler,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0384,Pardeep,Sahu,Pardeep Sahu,India,36,Bowler,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0385,Parth,Sahani,Parth Sahani,India,29,All Rounder,LHB,Left Arm Slow Orthodox,0,UnSold,NotSold
+P0386,Parvez,Rasool,Parvez Rasool,India,33,All Rounder,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0387,Pat,Cummins,Pat Cummins,Australia,28,All Rounder,RHB,Right Arm Fast,72500000,Sold,KKR
+P0388,Pathum,Nissaanka,Pathum Nissaanka,Sri Lanka,23,Batsman,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0389,Paul,Stirling,Paul Stirling,Ireland,31,Batsman,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0390,Pawan,Negi,Pawan Negi,India,29,All Rounder,LHB,Left Arm Slow Orthodox,0,UnSold,NotSold
+P0391,Piyush,Chawla,Piyush Chawla,India,33,Bowler,LHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0392,Prabhsimran,Singh,Prabhsimran Singh,India,21,Wicket Keeper,RHB,None,6000000,Sold,PK
+P0393,Pradeep,Sangwan,Pradeep Sangwan,India,31,All Rounder,RHB,Left Arm Fast,2000000,Sold,GT
+P0394,Pradosh,Paul,Pradosh Paul,India,21,All Rounder,LHB,Right Arm Off Spin,0,UnSold,NotSold
+P0395,Pranshu,Vijayran,Pranshu Vijayran,India,26,All Rounder,LHB,Right Arm Fast,0,UnSold,NotSold
+P0396,Prashant,Chopra,Prashant Chopra,India,29,Wicket Keeper,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0397,Prashant,Solanki,Prashant Solanki,India,22,Bowler,RHB,Right Arm Leg Spin,12000000,Sold,CSK
+P0398,Prasidh,Krishna,Prasidh Krishna,India,26,Bowler,RHB,Right Arm Fast,100000000,Sold,RR
+P0399,Pratham,Singh,Pratham Singh,India,29,Batsman,LHB,Right Arm Off Spin,2000000,Sold,KKR
+P0400,Pratyush,Singh,Pratyush Singh,India,27,All Rounder,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0401,Pravin,Dubey,Pravin Dubey,India,28,All Rounder,RHB,Right Arm Leg Spin,5000000,Sold,DC
+P0402,Prayas,Barman,Prayas Barman,India,19,All Rounder,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0403,Prerak,Mankad,Prerak Mankad,India,27,All Rounder,RHB,Right Arm Medium,2000000,Sold,PK
+P0404,Prerit,Agrawal,Prerit Agrawal,India,20,All Rounder,LHB,Left Arm Slow Orthodox,0,UnSold,NotSold
+P0405,Prerit,Dutta,Prerit Dutta,India,23,Bowler,LHB,Left Arm Slow Orthodox,0,UnSold,NotSold
+P0406,Prince Balwant,Rai,Prince Balwant Rai,India,22,Bowler,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0407,Prithvi,Shaw,Prithvi Shaw,India,22,Batsman,RHB,Right Arm Off Spin,75000000,Sold,DC
+P0408,Prithviraj,Yarra,Prithviraj Yarra,India,24,Bowler,LHB,Left Arm Fast,0,UnSold,NotSold
+P0409,Priyam,Garg,Priyam Garg,India,21,Batsman,RHB,Right Arm Off Spin,2000000,Sold,SRH
+P0410,Priyank,Panchal,Priyank Panchal,India,32,Batsman,RHB,None,0,UnSold,NotSold
+P0411,Pukhraj,Mann,Pukhraj Mann,India,20,Batsman,LHB,Left Arm Slow Orthodox,0,UnSold,NotSold
+P0412,Pulkit,Narang,Pulkit Narang,India,27,All Rounder,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0413,Purnank,Tyagi,Purnank Tyagi,India,21,All Rounder,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0414,Pushpendra Singh,Rathore,Pushpendra Singh Rathore,India,20,All Rounder,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0415,Qais,Ahmad,Qais Ahmad,Afghanistan,21,Bowler,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0416,Qamran,Iqbal,Qamran Iqbal,India,20,Batsman,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0417,Quinton,De Kock,Quinton De Kock,South Africa,29,Wicket Keeper,LHB,None,67500000,Sold,LSG
+P0418,R,Ashwin,R Ashwin,India,35,All Rounder,RHB,Right Arm Off Spin,50000000,Sold,RR
+P0419,R,Sai Kishore,R Sai Kishore,India,25,Bowler,LHB,Left Arm Slow Orthodox,30000000,Sold,GT
+P0420,R,Samarth,R Samarth,India,29,Batsman,RHB,Right Arm Off Spin,2000000,Sold,SRH
+P0421,R,Alexandar,R Alexandar,India,26,Bowler,LHB,Left Arm Slow Orthodox,0,UnSold,NotSold
+P0422,R,Silambarasan,R Silambarasan,India,29,Bowler,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0423,R,Vivek,R Vivek,India,30,All Rounder,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0424,R Sonu,Yadav,R Sonu Yadav,India,22,All Rounder,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0425,Rahmanullah,Gurbaz,Rahmanullah Gurbaz,Afghanistan,20,Wicket Keeper,RHB,None,0,UnSold,NotSold
+P0426,Rahul,Buddhi,Rahul Buddhi,India,24,Batsman,LHB,Right Arm Leg Spin,2000000,Sold,MI
+P0427,Rahul,Chahar,Rahul Chahar,India,22,Bowler,RHB,Right Arm Leg Spin,52500000,Sold,PK
+P0428,Rahul,Chandrol,Rahul Chandrol,India,21,Wicket Keeper,RHB,None,0,UnSold,NotSold
+P0429,Rahul,Gahlaut,Rahul Gahlaut,India,26,Batsman,LHB,Right Arm Off Spin,0,UnSold,NotSold
+P0430,Rahul,Sharma,Rahul Sharma,India,35,Bowler,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0431,Rahul,Shukla,Rahul Shukla,India,31,Bowler,RHB,Right Arm Fast,0,UnSold,NotSold
+P0432,Rahul,Tewatia,Rahul Tewatia,India,28,All Rounder,LHB,Right Arm Leg Spin,90000000,Sold,GT
+P0433,Rahul,Tripathi,Rahul Tripathi,India,31,Batsman,RHB,Right Arm Medium,85000000,Sold,SRH
+P0434,Raj Angad,Bawa,Raj Angad Bawa,India,19,All Rounder,LHB,Right Arm Fast Medium,20000000,Sold,PK
+P0435,Rajat,Patidar,Rajat Patidar,India,28,Batsman,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0436,Rajvardhan,Hangargekar,Rajvardhan Hangargekar,India,19,All Rounder,RHB,Right Arm Fast,15000000,Sold,CSK
+P0437,Ramandeep,Singh,Ramandeep Singh,India,24,All Rounder,RHB,Right Arm Fast,2000000,Sold,MI
+P0438,Ramesh,Kumar,Ramesh Kumar,India,23,Batsman,LHB,None,2000000,Sold,KKR
+P0439,Rashid,Khan,Rashid Khan,India,23,Bowler,RHB,Right Arm Leg Spin,150000000,Sold,GT
+P0440,Rasikh,Dar,Rasikh Dar,India,22,Bowler,RHB,Right Arm Fast Medium,2000000,Sold,KKR
+P0441,Rassie,Van Der Dussen,Rassie Van Der Dussen,South Africa,33,Batsman,RHB,Right Arm Off Spin,10000000,Sold,RR
+P0442,Ravi,Chauhan,Ravi Chauhan,India,28,All Rounder,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0443,Ravi,Sharma,Ravi Sharma,India,25,Bowler,RHB,Right Arm Fast,0,UnSold,NotSold
+P0444,Ravindra,Jadeja,Ravindra Jadeja,India,33,All Rounder,LHB,Left Arm Slow Orthodox,160000000,Sold,CSK
+P0445,Raymon,Reifer,Raymon Reifer,West Indies,30,All Rounder,LHB,Left Arm Fast Medium,0,UnSold,NotSold
+P0446,Reece,Topley,Reece Topley,England,28,Bowler,RHB,Left Arm Fast,0,UnSold,NotSold
+P0447,Ricky,Bhui,Ricky Bhui,India,25,Batsman,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0448,Rilee,Rossouw,Rilee Rossouw,South Africa,32,Batsman,LHB,Right Arm Off Spin,0,UnSold,NotSold
+P0449,Riley,Meredith,Riley Meredith,Australia,25,Bowler,RHB,Right Arm Fast,10000000,Sold,MI
+P0450,Rinku,Singh,Rinku Singh,India,24,Batsman,LHB,Right Arm Off Spin,5500000,Sold,KKR
+P0451,Ripal,Patel,Ripal Patel,India,26,All Rounder,RHB,Right Arm Fast Medium,2000000,Sold,DC
+P0452,Rishabh,Pant,Rishabh Pant,India,24,Batsman,LHB,Left Arm Slow Orthodox,160000000,Sold,DC
+P0453,Rishi,Dhawan,Rishi Dhawan,India,32,All Rounder,RHB,Right Arm Fast Medium,5500000,Sold,PK
+P0454,Ritwik,Roy Chowdhury,Ritwik Roy Chowdhury,India,26,Batsman,RHB,None,0,UnSold,NotSold
+P0455,Riyan,Parag,Riyan Parag,India,20,All Rounder,RHB,Right Arm Off Spin,38000000,Sold,RR
+P0456,Robin,Uthappa,Robin Uthappa,India,36,Batsman,RHB,None,20000000,Sold,CSK
+P0457,Rohan,Kadam,Rohan Kadam,India,27,Batsman,LHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0458,Rohan,Kunnummal,Rohan Kunnummal,India,23,Batsman,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0459,Rohit,Sharma,Rohit Sharma,India,34,Batsman,RHB,Right Arm Off Spin,150000000,Sold,MI
+P0460,Romario,Shepherd,Romario Shepherd,West Indies,27,All Rounder,RHB,Right Arm Fast Medium,77500000,Sold,SRH
+P0461,Ronit,More,Ronit More,India,30,Bowler,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0462,Roosh,Kalaria,Roosh Kalaria,India,29,All Rounder,RHB,Left Arm Fast Medium,0,UnSold,NotSold
+P0463,Roston,Chase,Roston Chase,West Indies,30,All Rounder,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0464,Rovman,Powell,Rovman Powell,West Indies,28,Batsman,RHB,Right Arm Fast Medium,28000000,Sold,DC
+P0465,Ruben,Trumpelmann,Ruben Trumpelmann,Namibia,24,Bowler,RHB,Left Arm Fast,0,UnSold,NotSold
+P0466,Ruturaj,Gaikwad,Ruturaj Gaikwad,India,25,Batsman,RHB,Right Arm Medium,60000000,Sold,CSK
+P0467,Ryan,John,Ryan John,West Indies,24,All Rounder,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0468,Ryan,Rickelton,Ryan Rickelton,South Africa,25,Wicket Keeper,LHB,None,0,UnSold,NotSold
+P0469,S,Kishan Kumar,S Kishan Kumar,India,22,Bowler,LHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0470,S,Sreesanth,S Sreesanth,India,39,Bowler,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0471,Sachin,Baby,Sachin Baby,India,33,Batsman,LHB,Right Arm Off Spin,0,UnSold,NotSold
+P0472,Safvan,Patel,Safvan Patel,India,23,Bowler,RHB,Left Arm Fast Medium,0,UnSold,NotSold
+P0473,Safyaan,Sharif,Safyaan Sharif,Scotland,30,All Rounder,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0474,Sagar,Trivedi,Sagar Trivedi,India,30,All Rounder,LHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0475,Sagar,Udeshi,Sagar Udeshi,India,35,Bowler,LHB,Left Arm Slow Orthodox,0,UnSold,NotSold
+P0476,Sahil,Dhiwan,Sahil Dhiwan,India,24,All Rounder,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0477,Sai,Sudarshan,Sai Sudarshan,India,20,Batsman,LHB,Left Arm Leg Spin,2000000,Sold,GT
+P0478,Sam,Billings,Sam Billings,England,30,Wicket Keeper,RHB,None,20000000,Sold,KKR
+P0479,Samarth,Vyas,Samarth Vyas,India,26,All Rounder,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0480,Sameer,Rizvi,Sameer Rizvi,India,18,Batsman,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0481,Samit,Patel,Samit Patel,England,37,All Rounder,RHB,Left Arm Slow Orthodox,0,UnSold,NotSold
+P0482,Sandeep,Lamichhane,Sandeep Lamichhane,Nepal,21,Bowler,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0483,Sandeep,Sharma,Sandeep Sharma,India,28,Bowler,RHB,Right Arm Fast Medium,5000000,Sold,PK
+P0484,Sandeep,Warrier,Sandeep Warrier,India,31,Bowler,RHB,Right Arm Fast,0,UnSold,NotSold
+P0485,Sandeep Kumar,Tomar,Sandeep Kumar Tomar,India,23,Wicket Keeper,LHB,Right Arm Off Spin,0,UnSold,NotSold
+P0486,Sanjay,Yadav,Sanjay Yadav,India,26,All Rounder,LHB,Left Arm Slow Orthodox,5000000,Sold,MI
+P0487,Sanju,Samson,Sanju Samson,India,27,Wicket Keeper,RHB,None,140000000,Sold,RR
+P0488,Sanvir,Singh,Sanvir Singh,India,25,All Rounder,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0489,Saqib,Mahmood,Saqib Mahmood,England,25,Bowler,RHB,Right Arm Fast,0,UnSold,NotSold
+P0490,Sarfaraz,Khan,Sarfaraz Khan,India,24,All Rounder,RHB,Right Arm Leg Spin,2000000,Sold,DC
+P0491,Satyajeet,Bachhav,Satyajeet Bachhav,India,29,Bowler,LHB,Left Arm Slow Orthodox,0,UnSold,NotSold
+P0492,Saurabh,Dubey,Saurabh Dubey,India,24,Bowler,RHB,Left Arm Fast Medium,2000000,Sold,SRH
+P0493,Saurabh,Kumar,Saurabh Kumar,India,28,All Rounder,LHB,Left Arm Slow Orthodox,0,UnSold,NotSold
+P0494,Saurabh,Tiwary,Saurabh Tiwary,India,32,Batsman,LHB,Right Arm Off Spin,0,UnSold,NotSold
+P0495,Saurav,Chuahan,Saurav Chuahan,India,21,All Rounder,LHB,Right Arm Off Spin,0,UnSold,NotSold
+P0496,Saurin,Thakar,Saurin Thakar,India,23,All Rounder,RHB,Left Arm Slow Orthodox,0,UnSold,NotSold
+P0497,Scott,Kuggeleijn,Scott Kuggeleijn,New Zealand,30,All Rounder,RHB,Right Arm Fast,0,UnSold,NotSold
+P0498,Sean,Abbott,Sean Abbott,Australia,30,Bowler,RHB,Right Arm Fast,24000000,Sold,SRH
+P0499,Seekkuge,Prasanna,Seekkuge Prasanna,Sri Lanka,36,All Rounder,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0500,Shafiqullah,Ghafari,Shafiqullah Ghafari,Afghanistan,20,All Rounder,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0501,Shahbaz,Ahamad,Shahbaz Ahamad,India,27,All Rounder,LHB,Left Arm Slow Orthodox,24000000,Sold,RCB
+P0502,Shahbaz,Nadeem,Shahbaz Nadeem,India,32,Bowler,RHB,Left Arm Slow Orthodox,5000000,Sold,LSG
+P0503,Shahrukh,Khan,Shahrukh Khan,India,26,All Rounder,RHB,Right Arm Off Spin,90000000,Sold,PK
+P0504,Shai,Hope,Shai Hope,West Indies,28,Wicket Keeper,RHB,None,0,UnSold,NotSold
+P0505,Shakib,Al Hasan,Shakib Al Hasan,Bangladesh,35,All Rounder,LHB,Left Arm Slow Orthodox,0,UnSold,NotSold
+P0506,Shamrah,Brooks,Shamrah Brooks,West Indies,33,Batsman,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0507,Shams,Mulani,Shams Mulani,India,25,All Rounder,LHB,Left Arm Slow Orthodox,0,UnSold,NotSold
+P0508,Shardul,Thakur,Shardul Thakur,India,30,Bowler,RHB,Right Arm Fast Medium,107500000,Sold,DC
+P0509,Shashank,Singh,Shashank Singh,India,30,All Rounder,RHB,Right Arm Medium,2000000,Sold,SRH
+P0510,Shashwat,Rawat,Shashwat Rawat,India,21,Batsman,LHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0511,Sheldon,Cottrell,Sheldon Cottrell,West Indies,32,Bowler,RHB,Left Arm Fast Medium,0,UnSold,NotSold
+P0512,Sheldon,Jackson,Sheldon Jackson,India,35,Wicket Keeper,RHB,None,6000000,Sold,KKR
+P0513,Sherfane,Rutherford,Sherfane Rutherford,West Indies,23,All Rounder,LHB,Right Arm Medium,10000000,Sold,RCB
+P0514,Shikhar,Dhawan,Shikhar Dhawan,India,36,Batsman,LHB,None,82500000,Sold,PK
+P0515,Shimron,Hetmyer,Shimron Hetmyer,West Indies,25,Batsman,LHB,Right Arm Leg Spin,85000000,Sold,RR
+P0516,Shivam,Chauhan,Shivam Chauhan,India,24,Batsman,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0517,Shivam,Dube,Shivam Dube,India,28,All Rounder,LHB,Right Arm Fast Medium,40000000,Sold,CSK
+P0518,Shivam,Mavi,Shivam Mavi,India,23,All Rounder,RHB,Right Arm Fast Medium,72500000,Sold,KKR
+P0519,Shivam,Sharma,Shivam Sharma,India,28,All Rounder,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0520,Shivank,Vashisth,Shivank Vashisth,India,26,All Rounder,LHB,Left Arm Slow Orthodox,0,UnSold,NotSold
+P0521,Shoriful,Islam,Shoriful Islam,Bangladesh,20,Bowler,LHB,Left Arm Fast Medium,0,UnSold,NotSold
+P0522,Shoun,Roger,Shoun Roger,India,19,All Rounder,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0523,Shreevats,Goswami,Shreevats Goswami,India,32,Wicket Keeper,LHB,None,0,UnSold,NotSold
+P0524,Shreyas,Gopal,Shreyas Gopal,India,28,Bowler,RHB,Right Arm Leg Spin,7500000,Sold,SRH
+P0525,Shreyas,Iyer,Shreyas Iyer,India,27,Batsman,RHB,Right Arm Leg Spin,122500000,Sold,KKR
+P0526,Shubham,Garhwal,Shubham Garhwal,India,26,All Rounder,LHB,Left Arm Slow Orthodox,2000000,Sold,RR
+P0527,Shubham,Ranjane,Shubham Ranjane,India,28,All Rounder,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0528,Shubham,Sharma,Shubham Sharma,India,25,All Rounder,LHB,Left Arm Slow Orthodox,0,UnSold,NotSold
+P0529,Shubham,Singh,Shubham Singh,India,25,All Rounder,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0530,Shubham Singh,Rohilla,Shubham Singh Rohilla,India,24,Batsman,LHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0531,Shubhang,Hegde,Shubhang Hegde,India,21,All Rounder,LHB,Left Arm Slow Orthodox,0,UnSold,NotSold
+P0532,Shubhum,Arora,Shubhum Arora,India,24,Wicket Keeper,LHB,None,0,UnSold,NotSold
+P0533,Shubman,Gill,Shubman Gill,India,22,Batsman,RHB,Right Arm Off Spin,80000000,Sold,GT
+P0534,Siddhant,Sharma,Siddhant Sharma,India,25,All Rounder,LHB,Left Arm Medium,0,UnSold,NotSold
+P0535,Siddharth,Kaul,Siddharth Kaul,India,31,Bowler,RHB,Right Arm Fast Medium,7500000,Sold,RCB
+P0536,Siddhesh,Wath,Siddhesh Wath,India,24,Wicket Keeper,RHB,None,0,UnSold,NotSold
+P0537,Sijomon,Joseph,Sijomon Joseph,India,24,All Rounder,LHB,Left Arm Slow Orthodox,0,UnSold,NotSold
+P0538,Simarjeet,Singh,Simarjeet Singh,India,24,Bowler,RHB,Right Arm Fast,2000000,Sold,CSK
+P0539,Sisanda,Magala,Sisanda Magala,South Africa,31,All Rounder,RHB,Right Arm Fast,0,UnSold,NotSold
+P0540,Stephen,Cheepurupalli,Stephen Cheepurupalli,India,28,Bowler,LHB,Left Arm Fast Medium,0,UnSold,NotSold
+P0541,Steve,Smith,Steve Smith,Australia,32,Batsman,RHB,None,0,UnSold,NotSold
+P0542,Subhranshu,Senapati,Subhranshu Senapati,India,25,Batsman,RHB,Right Arm Fast Medium,2000000,Sold,CSK
+P0543,Sudip,Chatterjee,Sudip Chatterjee,India,30,Batsman,LHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0544,Sujit,Nayak,Sujit Nayak,India,32,All Rounder,LHB,Left Arm Slow Orthodox,0,UnSold,NotSold
+P0545,Sumit,Kumar,Sumit Kumar,India,26,All Rounder,RHB,Right Arm Fast,0,UnSold,NotSold
+P0546,Sunil,Narine,Sunil Narine,West Indies,33,All Rounder,LHB,Right Arm Off Spin,60000000,Sold,KKR
+P0547,Suresh,Raina,Suresh Raina,India,35,Batsman,LHB,Right Arm Off Spin,0,UnSold,NotSold
+P0548,Suryakumar,Yadav,Suryakumar Yadav,India,31,Batsman,RHB,Right Arm Fast Medium,80000000,Sold,MI
+P0549,Sushant,Mishra,Sushant Mishra,India,21,Bowler,LHB,Left Arm Fast Medium,0,UnSold,NotSold
+P0550,Suyash,Prabhudessai,Suyash Prabhudessai,India,24,All Rounder,RHB,Right Arm Fast Medium,3000000,Sold,RCB
+P0551,Swaraj,Wabale,Swaraj Wabale,India,24,Bowler,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0552,Syed Khaleel,Ahmed,Syed Khaleel Ahmed,India,24,Bowler,RHB,Left Arm Fast,52500000,Sold,DC
+P0553,T,Natarajan,T Natarajan,India,30,Bowler,LHB,Left Arm Fast,40000000,Sold,SRH
+P0554,Tabraiz,Shamsi,Tabraiz Shamsi,South Africa,32,Bowler,LHB,Left Arm Slow Unorthodox,0,UnSold,NotSold
+P0555,Tajinder,Dhillon,Tajinder Dhillon,India,29,All Rounder,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0556,Tanay,Thyagarajan,Tanay Thyagarajan,India,26,All Rounder,LHB,Left Arm Slow Orthodox,0,UnSold,NotSold
+P0557,Tanmay,Agarwal,Tanmay Agarwal,India,26,Batsman,LHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0558,Tanmay,Mishra,Tanmay Mishra,India,35,Batsman,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0559,Tanush,Kotian,Tanush Kotian,India,23,All Rounder,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0560,Tanveer,Sangha,Tanveer Sangha,Australia,20,Bowler,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0561,Tanveer,Ul Haq,Tanveer Ul Haq,India,30,Bowler,RHB,Left Arm Fast,0,UnSold,NotSold
+P0562,Tarang,Gohel,Tarang Gohel,India,22,Wicket Keeper,RHB,None,0,UnSold,NotSold
+P0563,Taskin,Ahmed,Taskin Ahmed,Bangladesh,27,Bowler,LHB,Right Arm Fast,0,UnSold,NotSold
+P0564,Tejas,Baroka,Tejas Baroka,India,26,Bowler,RHB,Right Arm Leg Spin,2000000,Sold,RR
+P0565,Thisara,Perera,Thisara Perera,Sri Lanka,33,All Rounder,LHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0566,Tilak,Varma,Tilak Varma,India,25,Batsman,RHB,Right Arm Medium,17000000,Sold,MI
+P0567,Tim,David,Tim David,Australia,26,All Rounder,RHB,Right Arm Off Spin,82500000,Sold,MI
+P0568,Tim,Seifert,Tim Seifert,New Zealand,27,Wicket Keeper,RHB,None,5000000,Sold,DC
+P0569,Tim,Southee,Tim Southee,New Zealand,33,Bowler,RHB,Right Arm Fast,15000000,Sold,KKR
+P0570,Todd,Astle,Todd Astle,New Zealand,35,Bowler,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0571,Tom,Kohler Cadmore,Tom Kohler Cadmore,England,27,Batsman,RHB,None,0,UnSold,NotSold
+P0572,Tom,Rogers,Tom Rogers,Australia,28,All Rounder,LHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0573,Trent,Boult,Trent Boult,New Zealand,32,Bowler,RHB,Left Arm Fast Medium,80000000,Sold,RR
+P0574,Tushar,Deshpande,Tushar Deshpande,India,26,Bowler,LHB,Right Arm Fast,2000000,Sold,CSK
+P0575,Tymal,Mills,Tymal Mills,England,29,Bowler,RHB,Left Arm Fast,15000000,Sold,MI
+P0576,Umesh,Yadav,Umesh Yadav,India,34,Bowler,RHB,Right Arm Fast,20000000,Sold,KKR
+P0577,Umran,Malik,Umran Malik,India,22,Bowler,RHB,Right Arm Fast,40000000,Sold,SRH
+P0578,Upendra Singh,Yadav,Upendra Singh Yadav,India,25,Wicket Keeper,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0579,Urvil,Patel,Urvil Patel,India,23,Wicket Keeper,RHB,None,0,UnSold,NotSold
+P0580,Usman,Khawaja,Usman Khawaja,Australia,35,Batsman,LHB,Right Arm Off Spin,0,UnSold,NotSold
+P0581,Utkarsh,Singh,Utkarsh Singh,India,23,All Rounder,LHB,Right Arm Off Spin,0,UnSold,NotSold
+P0582,V,Gowtham,V Gowtham,India,19,Bowler,LHB,Left Arm Fast Medium,0,UnSold,NotSold
+P0583,V,Koushik,V Koushik,India,29,Bowler,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0584,V,Athisayaraj,V Athisayaraj,India,29,Bowler,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0585,Vaibhav,Arora,Vaibhav Arora,India,24,Bowler,RHB,Right Arm Fast Medium,20000000,Sold,PK
+P0586,Varun,Aaron,Varun Aaron,India,32,Bowler,RHB,Right Arm Fast,5000000,Sold,GT
+P0587,Varun,Chakravarty,Varun Chakravarty,India,30,Bowler,RHB,Left Arm Leg Spin,80000000,Sold,KKR
+P0588,Vasu,Vats,Vasu Vats,India,19,Bowler,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0589,Venkatesh,Iyer,Venkatesh Iyer,India,27,All Rounder,LHB,Right Arm Medium,80000000,Sold,KKR
+P0590,Vicky,Ostwal,Vicky Ostwal,India,19,All Rounder,RHB,Left Arm Slow Orthodox,2000000,Sold,DC
+P0591,Vidyadhar,Patil,Vidyadhar Patil,India,21,Bowler,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0592,Vijay,Shankar,Vijay Shankar,India,31,All Rounder,RHB,Right Arm Fast Medium,14000000,Sold,GT
+P0593,Vipul,Krishna,Vipul Krishna,India,21,Bowler,RHB,Left Arm Fast Medium,0,UnSold,NotSold
+P0594,Virat,Singh,Virat Singh,India,24,Batsman,LHB,Right Arm Off Spin,0,UnSold,NotSold
+P0595,Virat,Kohli,Virat Kohli,India,33,Batsman,RHB,Right Arm Medium,150000000,Sold,RCB
+P0596,Vishnu,Solanki,Vishnu Solanki,India,29,Wicket Keeper,RHB,None,0,UnSold,NotSold
+P0597,Vishnu,Vinod,Vishnu Vinod,India,28,Wicket Keeper,RHB,None,5000000,Sold,SRH
+P0598,Vivrant,Sharma,Vivrant Sharma,India,22,All Rounder,LHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0599,Vyshak,Vijay Kumar,Vyshak Vijay Kumar,India,25,Bowler,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0600,Wanindu,Hasaranga,Wanindu Hasaranga,Sri Lanka,24,All Rounder,RHB,Right Arm Leg Spin,107500000,Sold,RCB
+P0601,Waqar,Salamkheil,Waqar Salamkheil,Afghanistan,20,Bowler,RHB,Left Arm Slow Orthodox,0,UnSold,NotSold
+P0602,Washington,Sundar,Washington Sundar,India,22,All Rounder,LHB,Right Arm Off Spin,87500000,Sold,SRH
+P0603,Wayne,Parnell,Wayne Parnell,South Africa,32,All Rounder,LHB,Left Arm Fast Medium,0,UnSold,NotSold
+P0604,Wesley,Agar,Wesley Agar,Australia,25,Bowler,RHB,Right Arm Fast,0,UnSold,NotSold
+P0605,Wriddhiman,Saha,Wriddhiman Saha,India,37,Wicket Keeper,RHB,None,19000000,Sold,GT
+P0606,Writtick,Chatterjee,Writtick Chatterjee,India,29,All Rounder,RHB,Right Arm Off Spin,2000000,Sold,PK
+P0607,Yash,Dayal,Yash Dayal,India,24,Bowler,RHB,Left Arm Fast,32000000,Sold,GT
+P0608,Yash,Dhull,Yash Dhull,India,19,All Rounder,RHB,Right Arm Off Spin,5000000,Sold,DC
+P0609,Yash,Nahar,Yash Nahar,India,27,Batsman,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0610,Yash,Thakur,Yash Thakur,India,23,Bowler,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0611,Yashasvi,Jaiswal,Yashasvi Jaiswal,India,20,Batsman,LHB,Left Arm Leg Spin,40000000,Sold,RR
+P0612,Yashovardhan,Singh,Yashovardhan Singh,India,19,All Rounder,RHB,Right Arm Off Spin,0,UnSold,NotSold
+P0613,Yudhvir,Charak,Yudhvir Charak,India,24,All Rounder,RHB,Right Arm Fast Medium,0,UnSold,NotSold
+P0614,Yuvraj,Chaudhary,Yuvraj Chaudhary,India,20,All Rounder,LHB,Left Arm Slow Orthodox,0,UnSold,NotSold
+P0615,Yuvraj,Chudasama,Yuvraj Chudasama,India,26,Bowler,LHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0616,Yuzvendra,Chahal,Yuzvendra Chahal,India,31,Bowler,RHB,Right Arm Leg Spin,65000000,Sold,RR
+P0617,Zahir,Khan,Zahir Khan,Afghanistan,23,Bowler,LHB,Left Arm Slow Unorthodox,0,UnSold,NotSold
+P0618,Zeeshan,Ansari,Zeeshan Ansari,India,22,Bowler,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0619,Zubayr,Hamza,Zubayr Hamza,South Africa,26,Batsman,RHB,Right Arm Leg Spin,0,UnSold,NotSold
+P0620,Axar,Patel,Axar Patel,Afghanistan,26,Batsman,RHB,Right Arm Leg Spin,65000000,Sold,DC
+P0621,Moeen,Ali,Moeen Ali,Bangladesh,33,Batsman,RHB,Right Arm Leg Spin,5000000,Sold,CSK
+P0622,Marcus,Stoinis,Marcus Stoinis,South Africa,31,Batsman,RHB,Right Arm Leg Spin,19000000,Sold,LSG
